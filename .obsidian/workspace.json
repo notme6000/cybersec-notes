@@ -186,7 +186,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "3d-graph:3D Graph": false
+      "3d-graph:3D Graph": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c1d8cdcd92b9eda0",
