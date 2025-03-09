@@ -1,0 +1,10 @@
+- [ ] calculator
+- [ ] temperature converter
+- [ ] tic-tac-toe game 
+- [ ] student grading system
+- [ ] number guessing game
+- [ ] palindrome checker
+- [ ] simple bank account system
+- [ ] factorial finder
+- [ ] prime number checker
+- [ ] to-do list app

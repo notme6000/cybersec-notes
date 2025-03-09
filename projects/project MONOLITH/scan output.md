@@ -1,0 +1,6 @@
+- new page for scan output is build in ~/test dir 
+- it has two section 
+	- scan summary 
+	- detailed report
+- no need to separate the output text file
+- the content of the text file is shown in the detailed report and the ip, port number and scan time and date and options used in the scan summary
