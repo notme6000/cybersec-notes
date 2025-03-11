@@ -4,3 +4,6 @@
 [[programming-languages]]
 [[websites]]
 [[todo daily]]
+[[LINUX]]
+[[RPG - game]]
+[[COURSE]]
