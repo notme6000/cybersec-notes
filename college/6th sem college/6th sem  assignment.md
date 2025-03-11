@@ -1,7 +1,8 @@
 
 ## CYBER-SEC
 
-1. second module question
+  1. ~~first module questions~~
+  2. second module questions
 ## DATA ANALYTICS
 
 1. 
