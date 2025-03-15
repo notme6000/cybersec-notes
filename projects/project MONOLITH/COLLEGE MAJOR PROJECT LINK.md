@@ -3,4 +3,4 @@
 [[project presentation]]
 [[scan output]]
 [[tools]]
-[[encryption]]
+[[ENCRYPTION]]
