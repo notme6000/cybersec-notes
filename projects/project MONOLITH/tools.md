@@ -32,30 +32,30 @@
 
 ### web-vuln
 
-- [ ] port scan
-- [ ] dns enum
-- [ ] dns recom
-- [ ] web vuln
-- [ ] dir enum
+- [x] port scan
+- [x] dns enum
+- [x] dns recom
+- [x] web vuln
+- [x] dir enum
 
 ### OSINT
 
-- [ ] username search
-- [ ] email search
+- [x] username search
+- [x] email search
 - [ ] insta search
 - [ ] phishing (gophish)
 
 ### encryption
 
-- [ ] AES
-- [ ] RSA
+- [x] AES
+- [x] RSA
 - [ ] ChaCha20
 - [ ] blowfish
 - [ ] ECC
 
 ### misc
 
-- [ ] website downloader
-- [ ] wordlist gen
+- [x] website downloader
+- [x] wordlist gen
 - [ ] password crack (john)
 - [ ] 
