@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3df1c15902b94533",
+        "id": "ac5a1a260dd46fe9",
         "type": "tabs",
         "children": [
           {
-            "id": "4657cf7d3ea9c965",
+            "id": "5f42f83f7e1d237b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPT/23-05-2025.md",
-                "mode": "preview",
+                "file": "CPT/28-05-2025.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23-05-2025"
+              "title": "28-05-2025"
             }
           }
         ]
@@ -187,11 +187,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4657cf7d3ea9c965",
+  "active": "5f42f83f7e1d237b",
   "lastOpenFiles": [
-    "CPT/26-05-2025.md",
-    "Untitled.md",
+    "CPT/27-05-2025.md",
+    "CPT/28-05-2025.md",
     "CPT/23-05-2025.md",
+    "cybersecurity/cybersecurity.md",
+    "CPT/CPT.md",
+    "notme6000/notme6000 ( jithu ).md",
+    "CPT/26-05-2025.md",
     "git-token/git-tokens.md",
     "CPT",
     "HOSTEL.md",
@@ -205,12 +209,10 @@
     "projects/project MONOLITH/Encryption AES.md",
     "projects/project MONOLITH/CHACHA20 encryption.md",
     "college/6th sem college/6th sem  assignment.md",
-    "notme6000/notme6000 ( jithu ).md",
     "COURSE",
     "5th sem exam.md",
     "RPG GAME PROJECT/RPG - game.md",
     "projects/python-projects/auto-drive/AUTO-DRIVE.md",
-    "cybersecurity/cybersecurity.md",
     "LINUX/LINUX.md",
     "college/5th-sem-exam/5th sem exam.md",
     "LINUX",
@@ -222,8 +224,6 @@
     "COURSE/IBM software engg course",
     "projects/python-projects/auto-drive/auto drive.md",
     "Untitled 2.md",
-    "hello.md",
-    "projects/project MONOLITH/project presentation.md",
     "projects/python-projects/whatsapp-status-checker",
     "Untitled.canvas"
   ]
