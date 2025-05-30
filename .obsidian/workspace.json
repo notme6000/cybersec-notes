@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ac5a1a260dd46fe9",
+        "id": "594ca9a3d3b4a2f7",
         "type": "tabs",
         "children": [
           {
-            "id": "5f42f83f7e1d237b",
+            "id": "1e0c8a5ca2e89184",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPT/28-05-2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "3d_graph_view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "28-05-2025"
+              "title": "3D-Graph"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bc5b2e2924052a4f",
@@ -172,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,13 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f42f83f7e1d237b",
+  "active": "1e0c8a5ca2e89184",
   "lastOpenFiles": [
-    "CPT/27-05-2025.md",
-    "CPT/28-05-2025.md",
-    "CPT/23-05-2025.md",
-    "cybersecurity/cybersecurity.md",
     "CPT/CPT.md",
+    "cybersecurity/cybersecurity.md",
+    "CPT/28-05-2025.md",
+    "projects/projects.md",
+    "bandit-overthewire/bandit-over the wire.md",
+    "projects/custom-protocol/my custom protocols.md",
+    "projects/custom-protocol",
+    "CPT/29-05-2025.md",
+    "bandit-overthewire",
+    "CPT/27-05-2025.md",
+    "CPT/23-05-2025.md",
     "notme6000/notme6000 ( jithu ).md",
     "CPT/26-05-2025.md",
     "git-token/git-tokens.md",
@@ -214,17 +214,11 @@
     "RPG GAME PROJECT/RPG - game.md",
     "projects/python-projects/auto-drive/AUTO-DRIVE.md",
     "LINUX/LINUX.md",
-    "college/5th-sem-exam/5th sem exam.md",
     "LINUX",
     "LINUX/LINUX CUSTOMIZATION",
     "RPG GAME PROJECT",
     "course",
-    "LINUX/LINUX CUSTOMIZATION/kitty themes ( ss ).md",
     "college/6th sem college",
-    "COURSE/IBM software engg course",
-    "projects/python-projects/auto-drive/auto drive.md",
-    "Untitled 2.md",
-    "projects/python-projects/whatsapp-status-checker",
     "Untitled.canvas"
   ]
 }
