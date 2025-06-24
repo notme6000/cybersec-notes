@@ -1,0 +1,6 @@
+- `/var/log/auth.log` ssh log
+- `/var/log/syslog` system log
+- `/var/log/fail2ban.log` fail2bath logs
+- `/var/log/apache2/access.log` apache2 logs
+- `/var/log/apache2/error.log` apache2 error logs
+- 
