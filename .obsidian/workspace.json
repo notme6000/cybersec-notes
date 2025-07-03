@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1da39abac95135d",
+            "id": "41d36d86f281c33c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPT/02-06-2025.md",
+                "file": "CPT/03-07-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-06-2025"
-            }
-          },
-          {
-            "id": "5e8490c0518352dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPT/linux tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "linux tools"
-            }
-          },
-          {
-            "id": "99cff0792c921254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPT/linux logs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "linux logs"
-            }
-          },
-          {
-            "id": "5284aaff281be2a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session password key.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "session password key"
-            }
-          },
-          {
-            "id": "3ec7ff4de64e1df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "03-07-2025"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bc5b2e2924052a4f",
@@ -204,27 +148,17 @@
             }
           },
           {
-            "id": "85af04361db22628",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "fd5925c583795fa0",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -238,16 +172,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "3d-graph:3D Graph": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "5284aaff281be2a0",
+  "active": "41d36d86f281c33c",
   "lastOpenFiles": [
-    "CPT/linux logs.md",
-    "session password key.md",
+    "pass phrases/pass phrases.md",
+    "CPT/03-07-2025.md",
+    "pass phrases",
     "Untitled.md",
+    "CPT/linux logs.md",
     "CPT/linux tools.md",
     "CPT/02-06-2025.md",
     "git-token/git-tokens.md",
@@ -274,13 +208,11 @@
     "COURSE/IBM software engg course/IBM software engg course.md",
     "college/6th sem college/6TH SEM COLLEGE.md",
     "college/COLLEGE.md",
-    "projects/project MONOLITH/tools.md",
     "COURSE",
     "LINUX",
     "LINUX/LINUX CUSTOMIZATION",
     "RPG GAME PROJECT",
     "course",
-    "college/6th sem college",
     "Untitled.canvas"
   ]
 }
