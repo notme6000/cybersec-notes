@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41d36d86f281c33c",
+            "id": "047316e1e8419539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPT/03-07-2025.md",
+                "file": "CPT/03-07-2025 ( api security ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-07-2025"
+              "title": "03-07-2025 ( api security )"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bc5b2e2924052a4f",
@@ -174,10 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41d36d86f281c33c",
+  "active": "047316e1e8419539",
   "lastOpenFiles": [
+    "CPT/27-05-2025.md",
+    "Untitled 1.md",
+    "CPT/03-07-2025 ( api security ).md",
+    "CPT/03-06-2025.md",
     "git-token/git-tokens.md",
-    "CPT/03-07-2025.md",
     "pass phrases/pass phrases.md",
     "pass phrases",
     "Untitled.md",
@@ -187,10 +191,8 @@
     "CPT/10-06-2025.md",
     "CPT/29-05-2025.md",
     "CPT/09-06-2025.md",
-    "CPT/27-05-2025.md",
     "CPT/28-05-2025.md",
     "CPT/23-05-2025.md",
-    "CPT/03-06-2025.md",
     "CPT/CPT.md",
     "CPT/26-05-2025.md",
     "cybersecurity/cybersecurity.md",
@@ -206,7 +208,6 @@
     "COURSE/COURSE.md",
     "COURSE/IBM software engg course/IBM software engg course.md",
     "college/6th sem college/6TH SEM COLLEGE.md",
-    "college/COLLEGE.md",
     "COURSE",
     "LINUX",
     "LINUX/LINUX CUSTOMIZATION",
