@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git-token/git-tokens.md",
+                "file": "CPT/03-07-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git-tokens"
+              "title": "03-07-2025"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "41d36d86f281c33c",
   "lastOpenFiles": [
+    "git-token/git-tokens.md",
     "CPT/03-07-2025.md",
     "pass phrases/pass phrases.md",
     "pass phrases",
@@ -183,7 +184,6 @@
     "CPT/linux logs.md",
     "CPT/linux tools.md",
     "CPT/02-06-2025.md",
-    "git-token/git-tokens.md",
     "CPT/10-06-2025.md",
     "CPT/29-05-2025.md",
     "CPT/09-06-2025.md",
