@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "28d803eb707b88c8",
         "type": "tabs",
         "children": [
           {
             "id": "125ea16e4636bcaa",
+=======
+        "id": "b81024b928d95240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adfcb79ec325bc1c",
+>>>>>>> 57185a9ba4f511b221826c125de3d3f2bf5e125f
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CPT/04-07-2025 ( thick client pentesting ).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "04-07-2025 ( thick client pentesting )"
             }
           }
         ]
@@ -74,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bc5b2e2924052a4f",
@@ -136,34 +149,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drawbacks of block chain voting.md"
+                "file": "CPT/04-07-2025 ( thick client pentesting ).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of drawbacks of block chain voting"
-            }
-          },
-          {
-            "id": "85af04361db22628",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "fd5925c583795fa0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of 04-07-2025 ( thick client pentesting )"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,20 +173,36 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "3d-graph:3D Graph": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "3c06a690c63852fa",
   "lastOpenFiles": [
     "homework.md",
     "Untitled.md",
     "Untitled 1.md",
     "session password key.md",
-    "pass phrases/pass phrases.md",
-    "pass phrases",
+=======
+  "active": "adfcb79ec325bc1c",
+  "lastOpenFiles": [
+    "CPT/04-07-2025 ( thick client pentesting ).md",
     "CPT/03-07-2025 ( api security ).md",
+    "CPT/CPT.md",
+    "notme6000/notme6000 ( jithu ).md",
+    "websites/websites.md",
+    "todo/todo daily.md",
+    "pass phrases/pass phrases main.md",
+>>>>>>> 57185a9ba4f511b221826c125de3d3f2bf5e125f
+    "pass phrases/pass phrases.md",
+    "homework.md",
+    "session password key.md",
+    "pass phrases",
+<<<<<<< HEAD
+    "CPT/03-07-2025 ( api security ).md",
+=======
+    "Untitled 1.md",
+>>>>>>> 57185a9ba4f511b221826c125de3d3f2bf5e125f
     "git-token/git-tokens.md",
     "CPT/02-06-2025.md",
     "CPT/linux tools.md",
@@ -202,19 +214,14 @@
     "CPT/28-05-2025.md",
     "CPT/23-05-2025.md",
     "CPT/03-06-2025.md",
-    "CPT/CPT.md",
     "CPT/26-05-2025.md",
     "cybersecurity/cybersecurity.md",
     "projects/projects.md",
     "bandit-overthewire/bandit-over the wire.md",
-    "projects/custom-protocol/my custom protocols.md",
     "projects/custom-protocol",
     "bandit-overthewire",
-    "notme6000/notme6000 ( jithu ).md",
     "CPT",
-    "HOSTEL.md",
     "hostel",
-    "COURSE/COURSE.md",
     "COURSE",
     "LINUX",
     "LINUX/LINUX CUSTOMIZATION",
