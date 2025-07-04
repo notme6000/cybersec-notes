@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPT/CPT.md",
+                "file": "CPT/04-07-2025 ( thick client pentesting ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPT"
+              "title": "04-07-2025 ( thick client pentesting )"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bc5b2e2924052a4f",
@@ -140,34 +141,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drawbacks of block chain voting.md"
+                "file": "CPT/04-07-2025 ( thick client pentesting ).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of drawbacks of block chain voting"
-            }
-          },
-          {
-            "id": "85af04361db22628",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "fd5925c583795fa0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of 04-07-2025 ( thick client pentesting )"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,20 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c06a690c63852fa",
+  "active": "adfcb79ec325bc1c",
   "lastOpenFiles": [
-    "CPT/04-07-2025.md",
+    "CPT/04-07-2025 ( thick client pentesting ).md",
+    "CPT/03-07-2025 ( api security ).md",
+    "CPT/CPT.md",
     "notme6000/notme6000 ( jithu ).md",
     "websites/websites.md",
     "todo/todo daily.md",
     "pass phrases/pass phrases main.md",
     "pass phrases/pass phrases.md",
-    "CPT/CPT.md",
     "homework.md",
     "session password key.md",
     "pass phrases",
     "Untitled 1.md",
-    "CPT/03-07-2025 ( api security ).md",
     "git-token/git-tokens.md",
     "CPT/02-06-2025.md",
     "CPT/linux tools.md",
