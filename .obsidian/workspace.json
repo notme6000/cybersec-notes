@@ -11,14 +11,10 @@
             "id": "b17d71377871adb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session password key.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "session password key"
+              "title": "New tab"
             }
           }
         ]
@@ -188,13 +184,17 @@
   },
   "active": "b17d71377871adb7",
   "lastOpenFiles": [
+    "session password key.md",
+    "pass phrases/pass phrases.md",
+    "pass phrases",
+    "Untitled 1.md",
+    "CPT/03-07-2025 ( api security ).md",
     "git-token/git-tokens.md",
     "homework.md",
     "Untitled.md",
     "CPT/02-06-2025.md",
     "CPT/linux tools.md",
     "CPT/linux logs.md",
-    "session password key.md",
     "CPT/10-06-2025.md",
     "CPT/29-05-2025.md",
     "CPT/09-06-2025.md",
@@ -215,15 +215,11 @@
     "HOSTEL.md",
     "hostel",
     "COURSE/COURSE.md",
-    "COURSE/IBM software engg course/IBM software engg course.md",
-    "college/6th sem college/6TH SEM COLLEGE.md",
-    "college/COLLEGE.md",
     "COURSE",
     "LINUX",
     "LINUX/LINUX CUSTOMIZATION",
     "RPG GAME PROJECT",
     "course",
-    "college/6th sem college",
     "Untitled.canvas"
   ]
 }
