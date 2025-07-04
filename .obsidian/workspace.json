@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6de36d10200faf33",
+        "id": "b81024b928d95240",
         "type": "tabs",
         "children": [
           {
-            "id": "b17d71377871adb7",
+            "id": "adfcb79ec325bc1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CPT/CPT.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CPT"
             }
           }
         ]
@@ -148,8 +152,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -158,8 +162,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -177,21 +181,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "3d-graph:3D Graph": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b17d71377871adb7",
+  "active": "3c06a690c63852fa",
   "lastOpenFiles": [
-    "session password key.md",
+    "CPT/04-07-2025.md",
+    "notme6000/notme6000 ( jithu ).md",
+    "websites/websites.md",
+    "todo/todo daily.md",
+    "pass phrases/pass phrases main.md",
     "pass phrases/pass phrases.md",
+    "CPT/CPT.md",
+    "homework.md",
+    "session password key.md",
     "pass phrases",
     "Untitled 1.md",
     "CPT/03-07-2025 ( api security ).md",
     "git-token/git-tokens.md",
-    "homework.md",
-    "Untitled.md",
     "CPT/02-06-2025.md",
     "CPT/linux tools.md",
     "CPT/linux logs.md",
@@ -202,19 +209,14 @@
     "CPT/28-05-2025.md",
     "CPT/23-05-2025.md",
     "CPT/03-06-2025.md",
-    "CPT/CPT.md",
     "CPT/26-05-2025.md",
     "cybersecurity/cybersecurity.md",
     "projects/projects.md",
     "bandit-overthewire/bandit-over the wire.md",
-    "projects/custom-protocol/my custom protocols.md",
     "projects/custom-protocol",
     "bandit-overthewire",
-    "notme6000/notme6000 ( jithu ).md",
     "CPT",
-    "HOSTEL.md",
     "hostel",
-    "COURSE/COURSE.md",
     "COURSE",
     "LINUX",
     "LINUX/LINUX CUSTOMIZATION",

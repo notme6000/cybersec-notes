@@ -1,2 +1,0 @@
-[[panel-website]]
-[[dropshipping-website]]
