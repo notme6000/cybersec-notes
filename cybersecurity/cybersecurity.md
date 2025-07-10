@@ -1,4 +1,6 @@
 [[starting]]
 [[tasks]]
 [[CYBERSECURITY BOOKS]]
+[[CPT]]
 [[bandit-over the wire]]
+[[bug bounty]]

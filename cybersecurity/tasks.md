@@ -1,8 +1,8 @@
 ### beginner level
 
 - [x] set up lab env
-- [ ] learn networking basics
-- [ ] master linux commands
+- [x] learn networking basics
+- [x] master linux commands
 - [ ] explore web app security
 - [ ] use proxy tools
 - [ ] study cryptography basics

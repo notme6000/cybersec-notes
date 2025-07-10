@@ -5,5 +5,4 @@
 [[LINUX]]
 [[RPG - game]]
 [[COURSE]]
-[[CPT]]
 [[pass phrases main]]
