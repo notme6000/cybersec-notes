@@ -80,4 +80,4 @@
 					5. composer.json
 					6. package.json
 					7. composer.lock
-					
+				- how to find the dir is a vulnerability _you can search in google for the dir name and exposure hackerone report_this will give similar reports if there is a bug.
