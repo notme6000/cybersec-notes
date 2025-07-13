@@ -3,5 +3,7 @@
   "spellcheck": false,
   "vimMode": true,
   "showLineNumber": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source",
+  "strictLineBreaks": true,
+  "livePreview": true
 }
