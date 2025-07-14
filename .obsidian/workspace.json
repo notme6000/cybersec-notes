@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "116fd8798894fe29",
+    "id": "55bb9ed2fb82e012",
     "type": "split",
     "children": [
       {
-        "id": "7ad6f77759e157f2",
+        "id": "99558b1e4073fa50",
         "type": "tabs",
         "children": [
           {
-            "id": "39243c99727bfe6d",
+            "id": "373947eadecbad0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cybersecurity/cpt imp websites and concepts.md",
+                "file": "14-07-2025 ( network pentesting ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cpt imp websites and concepts"
+              "title": "14-07-2025 ( network pentesting )"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eb3aeb2c82d1e59c",
+    "id": "e2018ec0f5b481e2",
     "type": "split",
     "children": [
       {
-        "id": "b49c4972b8c74568",
+        "id": "d600e50c504e54ff",
         "type": "tabs",
         "children": [
           {
-            "id": "c1a1e3afb3ba8aee",
+            "id": "2930962058fc4829",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "ab3ccdb2f1b540ee",
+            "id": "a073320ffe1bbd6d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "eef5091fced699d3",
+            "id": "e3d4163f03155fe7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,20 +82,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "e224422bf4127357",
+    "id": "fe2063e44f42aac6",
     "type": "split",
     "children": [
       {
-        "id": "37b8263586daedc5",
+        "id": "24800bd812dc8d83",
         "type": "tabs",
         "children": [
           {
-            "id": "5fe74ca84ff8dba4",
+            "id": "571b1613c1cd69a6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes for class.md",
+                "file": "14-07-2025 ( network pentesting ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for notes for class"
+              "title": "Backlinks for 14-07-2025 ( network pentesting )"
             }
           },
           {
-            "id": "29c4621e8b92ca9b",
+            "id": "12765703832ecca5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes for class.md",
+                "file": "14-07-2025 ( network pentesting ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from notes for class"
+              "title": "Outgoing links from 14-07-2025 ( network pentesting )"
             }
           },
           {
-            "id": "8c2ca8b370045547",
+            "id": "70f719d45e34fcb9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,28 +138,28 @@
             }
           },
           {
-            "id": "f385fd7451a96c5d",
+            "id": "69e8afb03ced9a94",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes for class.md",
+                "file": "14-07-2025 ( network pentesting ).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of notes for class"
+              "title": "Outline of 14-07-2025 ( network pentesting )"
             }
           },
           {
-            "id": "87f887fa8e34d52e",
+            "id": "4e0bf6d8d96630f0",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -181,30 +181,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39243c99727bfe6d",
+  "active": "373947eadecbad0c",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "cybersecurity/bug bounty/11-07-2025 ( bug bounty ).md",
-    "cybersecurity/bug bounty/bug bounty.md",
-    "cybersecurity/CPT/CPT.md",
-    "cybersecurity/bug bounty/10-07-2025 ( bug bounty ).md",
-    "cybersecurity/cybersecurity.md",
-=======
-    "cybersecurity/cybersecurity.md",
-    "cybersecurity/cpt imp websites and concepts.md",
-    "cybersecurity/bug bounty/11-07-2025 ( bug bounty ).md",
-    "cybersecurity/CPT/linux tools.md",
-    "cybersecurity/bug bounty/10-07-2025 ( bug bounty ).md",
-    "cybersecurity/CYBERSECURITY BOOKS.md",
-    "cybersecurity/tasks.md",
-    "cybersecurity/starting.md",
-    "cybersecurity/bug bounty/bug bounty.md",
-    "cybersecurity/CPT/CPT.md",
->>>>>>> 4d54ea37ab6c051f0a5eb708c8d7ca2ad22029e0
-    "cybersecurity/bug bounty",
-    "notme6000/notme6000 ( jithu ).md",
-    "cybersecurity/CPT/03-06-2025.md",
-    "cybersecurity/CPT/02-06-2025.md",
-    "notes for class.md"
+    "14-07-2025 ( network pentesting ).md"
   ]
 }
