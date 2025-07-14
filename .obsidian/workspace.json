@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14-07-2025 ( network pentesting ).md",
+                "file": "cybersecurity/bug bounty/14-07-2025 ( bug bounty ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14-07-2025 ( network pentesting )"
+              "title": "14-07-2025 ( bug bounty )"
             }
           }
         ]
@@ -183,6 +183,8 @@
   },
   "active": "373947eadecbad0c",
   "lastOpenFiles": [
-    "14-07-2025 ( network pentesting ).md"
+    "cybersecurity/bug bounty/bug bounty.md",
+    "cybersecurity/bug bounty/14-07-2025 ( bug bounty ).md",
+    "cybersecurity/CPT/14-07-2025 ( network pentesting ).md"
   ]
 }
