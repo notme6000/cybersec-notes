@@ -12,7 +12,9 @@
 				2. json
 				3. key
 				4. api
-				5. 
+				5. uuid
+				6. password
+				7. 
 			- use [https://jwt.io/](https://jwt.io/) this for json decoding.
 		- gau is an alternative for waybackurls
 		- 
