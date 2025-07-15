@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "55bb9ed2fb82e012",
+    "id": "b889ee73e409fe09",
     "type": "split",
     "children": [
       {
-        "id": "05b2242951e95a21",
+        "id": "9deca8e42ad381c3",
         "type": "tabs",
         "children": [
           {
-            "id": "e7e520d250295673",
+            "id": "2ad833e9ee190aec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cybersecurity/bug bounty/10-07-2025 ( bug bounty ).md",
-                "mode": "preview",
+                "file": "cybersecurity/bug bounty/11-07-2025 ( bug bounty ).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-07-2025 ( bug bounty )"
+              "title": "11-07-2025 ( bug bounty )"
+            }
+          },
+          {
+            "id": "5086985438199dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15-07-2025 ( bug bounty ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15-07-2025 ( bug bounty )"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e2018ec0f5b481e2",
+    "id": "03a399ae086db45e",
     "type": "split",
     "children": [
       {
-        "id": "d600e50c504e54ff",
+        "id": "23f7c4ba0cd9b63f",
         "type": "tabs",
         "children": [
           {
-            "id": "2930962058fc4829",
+            "id": "8ec12b8e069caff7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "a073320ffe1bbd6d",
+            "id": "c7a824c98c34acf6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "e3d4163f03155fe7",
+            "id": "27baa50d6da513ab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +93,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "fe2063e44f42aac6",
+    "id": "379a42ac60565f12",
     "type": "split",
     "children": [
       {
-        "id": "24800bd812dc8d83",
+        "id": "3c1dbec1b771f711",
         "type": "tabs",
         "children": [
           {
-            "id": "571b1613c1cd69a6",
+            "id": "efd8bed09e224bd3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14-07-2025 ( network pentesting ).md",
+                "file": "cybersecurity/CPT/15-07-2025 (active directory ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 14-07-2025 ( network pentesting )"
+              "title": "Backlinks for 15-07-2025 (active directory )"
             }
           },
           {
-            "id": "12765703832ecca5",
+            "id": "dfee2f1a40c8bca9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cybersecurity/bug bounty/14-07-2025 ( bug bounty ).md",
+                "file": "cybersecurity/CPT/15-07-2025 (active directory ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 14-07-2025 ( bug bounty )"
+              "title": "Outgoing links from 15-07-2025 (active directory )"
             }
           },
           {
-            "id": "70f719d45e34fcb9",
+            "id": "55d2659ec30a7602",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +153,22 @@
             }
           },
           {
-            "id": "69e8afb03ced9a94",
+            "id": "36777502c2fdfffa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "14-07-2025 ( network pentesting ).md",
+                "file": "cybersecurity/CPT/15-07-2025 (active directory ).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 14-07-2025 ( network pentesting )"
+              "title": "Outline of 15-07-2025 (active directory )"
             }
           },
           {
-            "id": "4e0bf6d8d96630f0",
+            "id": "52539308a2e7df99",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -161,8 +177,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,13 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7e520d250295673",
+  "active": "5086985438199dc3",
   "lastOpenFiles": [
-    "cybersecurity/bug bounty/14-07-2025 ( bug bounty ).md",
-    "cybersecurity/bug bounty/bug bounty.md",
-    "cybersecurity/CPT/CPT.md",
-    "hello.md",
     "cybersecurity/bug bounty/11-07-2025 ( bug bounty ).md",
-    "cybersecurity/bug bounty/10-07-2025 ( bug bounty ).md",
+    "15-07-2025 ( bug bounty ).md",
+    "cybersecurity/bug bounty/14-07-2025 ( bug bounty ).md",
+    "cybersecurity/CPT/15-07-2025 (active directory ).md",
+    "cybersecurity/CPT/CPT.md"
   ]
 }

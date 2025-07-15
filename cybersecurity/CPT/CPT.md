@@ -12,3 +12,6 @@
 [[03-07-2025 ( api security )]]
 [[04-07-2025 ( thick client pentesting )]]
 [[14-07-2025 ( network pentesting )]]
+[[15-07-2025 (active directory )]]
+
+
