@@ -1,5 +1,6 @@
 [[linux logs]]
 [[linux tools]]
+[[cpt imp websites and concepts]]
 [[23-05-2025]]
 [[26-05-2025]]
 [[27-05-2025]]
@@ -13,5 +14,4 @@
 [[04-07-2025 ( thick client pentesting )]]
 [[14-07-2025 ( network pentesting )]]
 [[15-07-2025 (active directory )]]
-
-
+[[17-07-2025 ( attacktive directory thm room )]]

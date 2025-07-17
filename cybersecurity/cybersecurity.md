@@ -4,4 +4,3 @@
 [[CPT]]
 [[bandit-over the wire]]
 [[bug bounty]]
-[[cpt imp websites and concepts]]
