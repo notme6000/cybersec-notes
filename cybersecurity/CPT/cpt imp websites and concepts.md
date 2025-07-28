@@ -4,4 +4,5 @@
 4. PTES (penetration testing execution standard) (http://www.pentest-standard.org/index.php/Main_Page) 
 5. NIST 800-115 (https://www.nist.gov/privacy-framework/nist-sp-800-115)
 6. OSSTMM (open source security testing methodology manual) (https://www.isecom.org/OSSTMM.3.pdf)
-7. 
+7. darkweb site ( elf quirn's hidden lab ) 
+8. pidgin ( chat / messanger)
