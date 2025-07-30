@@ -15,3 +15,4 @@
 [[14-07-2025 ( network pentesting )]]
 [[15-07-2025 (active directory )]]
 [[17-07-2025 ( attacktive directory thm room )]]
+[[28-07-2025 ( cloud computing )]]
