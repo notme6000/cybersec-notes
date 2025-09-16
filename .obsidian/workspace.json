@@ -4,49 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7d3214daee1ecb35",
+        "id": "8838fe7375ceb8e2",
         "type": "tabs",
         "children": [
           {
-            "id": "0ae8890d9bd0780f",
+            "id": "eac55d6e10d43397",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e2f887db1b8bc805",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cybersecurity/bug bounty/The Bug Hunter's Methodology - Application Analysis - Jason Haddix.md",
+                "file": "git-token/git-tokens.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Bug Hunter's Methodology - Application Analysis - Jason Haddix"
-            }
-          },
-          {
-            "id": "06303f0d5189d826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cybersecurity/CPT ASSIGNMENT/CPT ASSIGNMENT.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CPT ASSIGNMENT"
-            }
-          },
-          {
-            "id": "7e7b0f8f22230866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cybersecurity/bug bounty/10-07-2025 ( bug bounty ).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10-07-2025 ( bug bounty )"
+              "title": "git-tokens"
             }
           }
         ],
@@ -189,8 +171,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "46db93154764e150",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -209,17 +203,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06303f0d5189d826",
+  "active": "e2f887db1b8bc805",
   "lastOpenFiles": [
-    "cybersecurity/bug bounty/10-07-2025 ( bug bounty ).md",
+    "placement class notes/placement class notes.md",
+    "ideas.md",
+    "RPG GAME PROJECT/RPG - game.md",
+    "2025-08-14-132017_1920x1080_scrot.png",
     "cybersecurity/CPT ASSIGNMENT/CPT ASSIGNMENT.md",
-    "cybersecurity/bug-bounty assignment.md",
-    "cybersecurity/bug bounty/The Bug Hunter's Methodology - Application Analysis - Jason Haddix.md",
-    "Untitled.md",
+    "cybersecurity/GoogleDorking.md",
+    "what to do.md",
+    "Untitled 1.md",
     "ram-details.md",
     "esp codes.md",
-    "cybersecurity/bug bounty/11-07-2025 ( bug bounty ).md",
+    "placement class notes",
+    "imp-imgs/missing-security-flags.png",
+    "imp-imgs",
+    "missing-security-flags.png",
+    "cybersecurity/bug-bounty assignment.md",
     "cybersecurity/cybersec tools.md",
+    "cybersecurity/cybersecurity.md",
+    "cybersecurity/CYBERSECURITY BOOKS.md",
+    "projects/AngeronaVeil/AngeronaVeil.md",
+    "projects/projects.md",
+    "projects/AngeronaVeil",
+    "cybersecurity/bug bounty/10-07-2025 ( bug bounty ).md",
+    "cybersecurity/bug bounty/The Bug Hunter's Methodology - Application Analysis - Jason Haddix.md",
+    "cybersecurity/bug bounty/11-07-2025 ( bug bounty ).md",
     "cybersecurity/CPT ASSIGNMENT",
     "cybersecurity/bug bounty/bug-bounty ( idor ).md",
     "cybersecurity/bug bounty/bug bounty.md",
@@ -227,16 +236,6 @@
     "cybersecurity/bug bounty/18-07-2025 ( bug bounty ).md",
     "cybersecurity/bug bounty/17-07-2025 ( bug bounty ).md",
     "cybersecurity/bug bounty/16-07-2025 ( bug bounty ).md",
-    "cybersecurity/bug bounty/15-07-2025 ( bug bounty ).md",
-    "cybersecurity/bug bounty/14-07-2025 ( bug bounty ).md",
-    "what to do.md",
-    "git-token/git-tokens.md",
-    "cybersecurity/CYBERSECURITY BOOKS.md",
-    "cybersecurity/cybersecurity.md",
-    "cybersecurity/GoogleDorking.md",
-    "cybersecurity/CPT/31-07-2025 ( android pentesting ).md",
-    "cybersecurity/CPT/28-07-2025 ( cloud computing ).md",
-    "cybersecurity/CPT/CPT.md",
-    "cybersecurity/CPT/cpt imp websites and concepts.md"
+    "cybersecurity/bug bounty/15-07-2025 ( bug bounty ).md"
   ]
 }

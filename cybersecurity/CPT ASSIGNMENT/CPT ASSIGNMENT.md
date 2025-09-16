@@ -22,3 +22,8 @@ __first bug found in www.hcghospitals.in__
 		- medium to high
 		- Exposure of exact dependencies and versions, including unstable branches (`dev-master`, `dev-main`).
 		- Potential exposure to known CVEs in outdated or unstable dependencies.
+#### 3. https://www.arturia.com/
+
+1. **missing critical security flags**
+	- this site has missing security flags for **Httponly**
+	- ![[2025-08-14-132017_1920x1080_scrot.png]]
