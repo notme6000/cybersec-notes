@@ -4,3 +4,8 @@
 		1. first create the tui with wallpaper cycle
 2. create a file tester for finding what is inside the file ( like trojan ) - cyberflow - filescope.py
 3. file shreader
+4. SOC dashboard
+	1. setup ubuntu server.
+	2. use snort or fail2ban.
+	3. parse the logs ( dynamicaly ).
+	4. use the parsed data to show a gui dashboard in the browser.

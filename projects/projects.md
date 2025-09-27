@@ -1,7 +1,4 @@
-[[my custom protocols]]
 [[project MONOLITH]]
+[[ideas]]
 [[git-tokens]]
-[[python-projects]]
-[[c-projects]]
 [[api keys]]
-[[AngeronaVeil]]
