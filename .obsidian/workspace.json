@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cybersecurity/CEH redteam/ceh redteam class.md",
-                "mode": "source",
+                "file": "interview/interview-question.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ceh redteam class"
+              "title": "interview-question"
             }
           }
         ]
@@ -192,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b85c40ac041e5a62",
+  "active": "8ec12b8e069caff7",
   "lastOpenFiles": [
-    "cybersecurity/cybersecurity.md",
+    "interview",
     "cybersecurity/CEH redteam/ceh redteam class.md",
+    "cybersecurity/cybersecurity.md",
     "Untitled 1.md",
     "cybersecurity/CEH redteam",
     "cybersecurity/cyber-sec-selfnotes/sql injection.md",
