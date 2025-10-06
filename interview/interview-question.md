@@ -1,9 +1,92 @@
-
 ### **Networking Fundamentals (The Backbone)**
 
 1.  Explain the OSI model and its layers.
+
+	- The OSI ( open systems interconnection ) model is a conceptual framework used to understand how network protocols and communications work. It was developed by the international Organization for Standardization ( ISO ) in the 1980s.
+	- It is a universal rulebook or a blueprint that standardizes the functions of a telecommunication or computing system into seven distinct, abstract layers.Each layer has a specific job and serves the layer above it, while receiving services from the layer below it.
+	- __7 layers of osi model__
+		- "all people seem to need data processing"
+			- application
+			- presentation
+			- session
+			- transport
+			- network
+			- data link
+			- physical	
+			-  __Layer 7 : Application Layer__
+				- layer that  users and applications interact with directly.
+				- provides network services to the end-user applications ( like your web browser or email client ).
+				- __function__: Provides interfaces and services for applications to access the network.
+					- It's not the application itself, but the services it uses ( eg: HTTP for web browsing, SMTP for email, FTP  for file transfer).
+				- __key protocols__: HTTP, HTTPS, FTP, SMTP, DNS
+			- __Layer 6 : Presentation Layer__
+				- This layer acts as the translator for the network. It ensures that the data sent from the application layer of one system is readable by the application layer of another system.
+				- __function :__ Responsible for data translation, encryption and compression.
+					- translation : converting between different data fromats ( eg : ASCII to Unicode )
+					- encryption : securing data using protocols like SSL/TLS
+					- compression : Reducing the number of bits needed to represent the data.
+				- __key protocols:__ SSL/TLS ( for encryption ), JPEG, MPEG.
+			- __Layer 5 : session Layer__
+				- This layer is the "dialog controller" It establishes, manages, and terminates connections ( sessions ) between applications.
+				- __function__ : Controls the dialogues ( sessions ) between computers. It sets up, coordinates and terminates the conversations, exchanges, and dialogues between the applications at each end.
+				- __Key protocols :__ NetBIOS, RPC
+			- __Layer 4 : Transport Layer__
+				- This Layer is responsible for end-to-end communication and data transfer between the two end systems ( eg: your laptop and web server )
+				- __Function :__ manages teh reliability of communication
+					- segmentation : Breaking down data from the session layer into smaller pieces called segments.
+					- flow control : ensures the sending device does not overwhelm the receiving device.
+					- error control : uses acknowledgements and retransmissions to ensure all segments are received correctly ( in TCP ).
+					- __Key Protocols :__ TCP ( transmission control protocol - connection oriented and reliable ) and  UPD ( user datagram protocl - connectionless and fast )
+			- __Layer 3 : Network Layer__
+				- This layer is responsible for logical addressing and path determination- essentially, getting data from one network to another.
+				- __Funcion__
+					- Logical Addressing : Assigns IP addresses to packets.
+					- Routing : Determines the best path across the network to forward the packets. Routers operate at this layer.
+					- Packet Forwarding : Takes the segments from the Transport Layer and encapsulates them into packets.
+				- __Key Protocols :__ IP ( IPv4, IPv6), ICMP, ROUTERS.
+			- __Layer 2 : Data Link Layer__
+				- This layer is responsible for node-to-node data transfer and error detection on the same physical network segments (e.g., within the same LAN )
+				- __Funcion__
+					- Physical Addressing : Adds the source and destination MAC (Media Access Control)addresses to the data, creating a frame.
+					- Error Detection : Checks for errors in the transmitted frames using methods like CRC (Cyclic Redundancy Check)
+					- Access Control : Controls which device has access to the network medium at any given time (e.g., CSMA/CD)
+				- __Key Devices :__ Switches, Bridges.
+			- __Layer 1 : Physical Layer__
+				- This is the lowest layer and deals with the physical connection between devices. It defines the electrical, mechanical, and procedural ascpects of the physical network.
+				- __Funcion__
+					- Transmits raw, unstructured bit streams (1s and 0s) over the physical medium. It defines characteristics like:
+						- voltages, cable specifications, data rates, maximum transmission distances.
+						- connectors, pin layouts, and hubs and repeater functionality.
+				- __key devices :__ Hubs, Repeaters, Cables, Network Interface Cards (NICs).
+
+---
+
 2.  What is the TCP/IP model? How does it differ from the OSI model?
+
+	- Certainly. The TCP/IP model, also known as the Internet Protocol Suite, is the conceptual model that the actual internet is built on. It's not just a theoretical framework: it's the set of rules that govers modern internet communication.
+	- While the OSI model has seven layers, the TCP/IP model is condensed into four layers:
+		1. __Application Layer__ : This is a combination of the OSI's Application, Presentation, and Session layers. It handles high-level protocols like HTTP for web browsing, SMTP for email, and DNS for domain name resolution. Essentially, it's where the network applications operate.
+		2. __Transport Layer :__ This maps directly to the OSI transport layer. Its job is end-to-end communication and data flow. The two key protocols here are TCP, which is connection-oriented and reliable, and UDP, which is connectionless and faster.
+		3. __Internet Layer__ : This corresponds to the OSI Network Layer. Its core function is logical addressing and routing-getting packets from the source network to the destination network. The star protocol here is the Internet Protocol, or IP.
+		4. __Network Access Layer (or Link Layer) :__ This is a fusion of the OSI's Data Link and Physical Layers. It's concerned with the physical transmission of data over the network medium, like Ethernet or Wi-Fi. It deals with hardware addressing and getting data onto the local network.
+
+---
+
 3.  What are the differences between TCP and UDP? Give an example of a protocol that uses each.
+
+	- The primary difference lies in their approach to reliablility and connection management. We can think of TCP like registered, tracked courier service, and UDP like standard, first-class mail.
+	- __TCP (Transmission Control Protocol)__ is connection-oriented. This means it establishes a formal connection using a three-way handshake before any data is sent. 
+		- __Reliability__ : It guarantees delivery. It uses acknowledgements and retransmissions to ensure all data packets arrive.
+		- __Ordering :__ It sequences the data packets so they are reassembled in the correct order at the destination.
+		- __Error Checking__ : It has robust error-checking to confirm data integrity.
+		- __Flow Control :__ It manages the data flow to prevent overwhelming a slower receiver.
+	- Because of this, TCP is heavier, with more overhead due to all the built-in control mechanisms.
+	- A classic example of a protocol that uses TCP is HTTP/HTTPS. When you load a website, you need every part of the page-the HTML, the images, the code-to arrive completely and in the correct order. A missing or out-of-order piece would break the page.
+	-  
+
+
+
+---
 4.  What is the three-way handshake in TCP?
 5.  Explain what ARP (Address Resolution Protocol) is and its purpose.
 6.  What is a DNS and how does it work?

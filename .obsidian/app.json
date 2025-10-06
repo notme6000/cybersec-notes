@@ -5,5 +5,6 @@
   "showLineNumber": false,
   "defaultViewMode": "source",
   "strictLineBreaks": true,
-  "livePreview": true
+  "livePreview": true,
+  "readableLineLength": true
 }
