@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/interview-question.md",
+                "file": "cybersecurity/CEH redteam/ceh redteam class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interview-question"
+              "title": "ceh redteam class"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,8 +196,9 @@
   },
   "active": "f98def856ec5b1d2",
   "lastOpenFiles": [
-    "interview/interview-question.md",
     "cybersecurity/CEH redteam/ceh redteam class.md",
+    "interview/interview-question.md",
+    "ubuntu server configuration.md",
     "interview",
     "cybersecurity/cybersecurity.md",
     "Untitled 1.md",
@@ -229,7 +231,6 @@
     "cybersecurity/bug bounty/10-07-2025 ( bug bounty ).md",
     "cybersecurity/bug bounty/The Bug Hunter's Methodology - Application Analysis - Jason Haddix.md",
     "cybersecurity/bug bounty/11-07-2025 ( bug bounty ).md",
-    "cybersecurity/CPT ASSIGNMENT",
-    "cybersecurity/bug bounty/bug-bounty ( idor ).md"
+    "cybersecurity/CPT ASSIGNMENT"
   ]
 }

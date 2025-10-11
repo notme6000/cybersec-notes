@@ -75,30 +75,69 @@
 3.  What are the differences between TCP and UDP? Give an example of a protocol that uses each.
 
 	- The primary difference lies in their approach to reliablility and connection management. We can think of TCP like registered, tracked courier service, and UDP like standard, first-class mail.
-	- __TCP (Transmission Control Protocol)__ is connection-oriented. This means it establishes a formal connection using a three-way handshake before any data is sent. 
-		- __Reliability__ : It guarantees delivery. It uses acknowledgements and retransmissions to ensure all data packets arrive.
-		- __Ordering :__ It sequences the data packets so they are reassembled in the correct order at the destination.
-		- __Error Checking__ : It has robust error-checking to confirm data integrity.
-		- __Flow Control :__ It manages the data flow to prevent overwhelming a slower receiver.
-	- Because of this, TCP is heavier, with more overhead due to all the built-in control mechanisms.
-	- A classic example of a protocol that uses TCP is HTTP/HTTPS. When you load a website, you need every part of the page-the HTML, the images, the code-to arrive completely and in the correct order. A missing or out-of-order piece would break the page.
-	-  
-
-
+	- __TCP__
+		- __TCP (Transmission Control Protocol)__ is connection-oriented. This means it establishes a formal connection using a three-way handshake before any data is sent. 
+			- __Reliability__ : It guarantees delivery. It uses acknowledgements and retransmissions to ensure all data packets arrive.
+			- __Ordering :__ It sequences the data packets so they are reassembled in the correct order at the destination.
+			- __Error Checking__ : It has robust error-checking to confirm data integrity.
+			- __Flow Control :__ It manages the data flow to prevent overwhelming a slower receiver.
+		- Because of this, TCP is heavier, with more overhead due to all the built-in control mechanisms.
+		- A classic example of a protocol that uses TCP is HTTP/HTTPS. When you load a website, you need every part of the page-the HTML, the images, the code-to arrive completely and in the correct order. A missing or out-of-order piece would break the page.
+	- __UDP__
+		- __UDP (User Datagram Protocol)__ is connection-less. It sends data without establishing a prior connection. Its characteristics are:
+			- __Speed :__ It has much lower latency and overhead because it forgoes the handshake, acknowledgements, and sequencing. 
+			- __No Guaranteed Delivery :__ It's a "fire-and-forget" protocol. It will send the data, but won't check if it arrived.
+			- __No Ordering :__ Packets can arrive out of order.
+			- __Efficiency :__ It's lightweight, making it ideal for applications where speed is more critical than perfect accuracy.
+		- A prime example of a protocol that uses UDP is DNS (Domain Name System). When your computer asks a DNS server for the IP address of "google.com," it's a very short, single request. It's faster to send a quick UDP packet and hope for a reply than to set up a full TCP connection for such a small query. If the request gets lost, it will simply time out and be retried.
 
 ---
+
 4.  What is the three-way handshake in TCP?
+	- The three-way handshake is a three-step process that two computers use to establish a reliable TCP connection before they start transmitting actual data. It's like a formal introduction and agreement to talk before starting a important conversation.
+	- The three step are
+		1. __SYN (Synchronize) :__ The client who wants to initiate a connection sends a TCP packet to the server with a special flag called SYN set to 1. This is essentially the client saying, "Hello, server. Are you open to a new? My initial sequence number is X." 
+		2. __SYN-ACK (Synchronize-Acknowledge) :__ The server, if it's open and accepting connections, responds with a packet that has two flags set: SYN and ACK. This means: "Hello, client. I acknowledge your request(ACK)". I am open for a connection. My initial sequence number is Y."
+		3. __ACK (Acknowledge) :__ Finally, the client sends an ACK packet back to the server. This confirms the server's sequence number. It's the client saying, "Great! I acknowledge you. Let's start transmitting data.". 
+
+---
+
 5.  Explain what ARP (Address Resolution Protocol) is and its purpose.
+	- __ARP, of Address Resolution Protocol__, is a critical layer 2 protocol used to map a known IP address to an unknown MAC address on a local area network (LAN).
+	- Its core purpose is to resolve a logical Layer 3 address (the IP address) into a physical Layer 2 address (the MAC address). This is necessary because for two devices to communicate on the same local network segment, the data must be encapsulated in a frame that uses MAC addresses for delivery, even if the application started with just an IP address.
+	- __The process__
+		1. A host checks its local ARP cache to see if it already has the mapping.
+		2. If not, it broadcasts an ARP Request packet to the entire local network, asking, in essence, "who has IP address 192.168.1.5? Please tell me your MAC address."
+		3. Only the device with that specific IP address will respond with a unicast ARP Reply containing its MAC address.
+		4. The original host then stores this mapping in its ARP cache for future communication and can now correctly address the data link layer frames.
+
+---
+
 6.  What is a DNS and how does it work?
+	- __DNS or Domain Name System, is essentially the phonebook of the internet__. It's a distributed, hierarchical database that translate human-friendly domain names, like "google.com", into machine-readable IP addresses, like "142.251.42.46", which are necessary to locate and connect to web servers.
+	- __How DNS works__
+		1. __User Request__ : A user types a domain name (e.g., www.google.com) into their browser. The browser first checks its own cache and the local operating system's hosts file to see if it already knows the corresponding IP address.
+		2. __Recursive Resolver__ : If the answer isn't cached locally, the query is sent to a __Recursive Resolver__. This is typically a server operated by the user's Internet Service Provider (ISP). The resolver acts like a librarian who does the legwork of finding the answer for you.
+		3. __Root Name Server :__ The recursive resolver doesn't know the answer either, so it first queries one of the 13 logical __Root Servers.__ There servers don't have the final answer but know where to direct the query for the top-level domain (TLD)- in this case, for `.com`. The root server responds with the address of a TLD name server for `.com`.
+		4. __TLD Name Server :__ The resolver then queries the `.com` TLC server. This server manages information for all `.com` domains. It doesn't know the specific IP for `www.example.com`, but it knows the authoritative name servers for the `example.com` domain. It returns the addresses of those servers to the resolver.
+		5. __Authoritative Name Server__ : Finally, the resolver queries one of the __Authoritative Name Servers__ for `example.com`. These servers hold the definitive DNS records for that specific domain. The authoritative server looks up the "A record" for `www.example.com` and returns the final IP address (e.g., `93.184.216.34`) to the recursive resolver.
+		6. __Response to Client :__ The recursive resolver receives the IP address, stores it in its local cache for a period of time (defined by the TTL- Time to Live) for future requests, and then sends the final answer back to the user's operating system, which gives it to the browser.
+		7. __Website Connection :__ The browser can now initiate a TCP connection to the IP address `93.184.216.34` and load the website.
+
+---
+
 7.  What is the difference between a router and a switch?
-8.  Explain the concepts of IP Address, Subnet Mask, and Default Gateway.
-9.  What is a VLAN and why is it used for security?
-10. What is a VPN and how does it provide security?
-11. What is the difference between HTTP and HTTPS?
-12. What are the common TCP and UDP port numbers for services like SSH, FTP, DNS, HTTP, HTTPS, and RDP?
-13. What is a MAC address and how is it different from an IP address?
-14. What is a DDoS attack and how does it work from a network perspective?
-15. What is a Man-in-the-Middle (MitM) attack?
+	- 
+
+---
+7.  Explain the concepts of IP Address, Subnet Mask, and Default Gateway.
+8.  What is a VLAN and why is it used for security?
+9. What is a VPN and how does it provide security?
+10. What is the difference between HTTP and HTTPS?
+11. What are the common TCP and UDP port numbers for services like SSH, FTP, DNS, HTTP, HTTPS, and RDP?
+12. What is a MAC address and how is it different from an IP address?
+13. What is a DDoS attack and how does it work from a network perspective?
+14. What is a Man-in-the-Middle (MitM) attack?
 
 ### **Core Cybersecurity Concepts**
 
