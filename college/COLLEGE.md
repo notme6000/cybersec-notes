@@ -1,3 +1,0 @@
-
-[[6TH SEM COLLEGE]]
-

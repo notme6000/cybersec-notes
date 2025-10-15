@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cybersecurity/CEH redteam/ceh redteam class.md",
+                "file": "notme6000/goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ceh redteam class"
+              "title": "goals"
             }
           }
         ]
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "379a42ac60565f12",
@@ -196,16 +194,27 @@
   },
   "active": "f98def856ec5b1d2",
   "lastOpenFiles": [
+    "cybersecurity/cyber-sec-selfnotes/sql injection.md",
+    "cybersecurity/bug-bounty assignment.md",
+    "cybersecurity/cybersec tools.md",
+    "cybersecurity/cybersecurity.md",
+    "cybersecurity/CYBERSECURITY BOOKS.md",
+    "cybersecurity/GoogleDorking.md",
+    "LINUX/LINUX.md",
+    "LINUX/LINUX CUSTOMIZATION/kitty themes ( ss ).md",
+    "college/COLLEGE.md",
+    "college/6th sem college/6TH SEM COLLEGE.md",
+    "college/6th sem college/6th sem  assignment.md",
+    "git-token/git-tokens.md",
+    "imp-imgs/missing-security-flags.png",
+    "projects/ubuntu server configuration.md",
+    "notme6000/goals.md",
     "cybersecurity/CEH redteam/ceh redteam class.md",
     "interview/interview-question.md",
-    "ubuntu server configuration.md",
     "interview",
-    "cybersecurity/cybersecurity.md",
     "Untitled 1.md",
     "cybersecurity/CEH redteam",
-    "cybersecurity/cyber-sec-selfnotes/sql injection.md",
     "projects/ideas.md",
-    "git-token/git-tokens.md",
     "placement class notes/placement class notes.md",
     "projects/projects.md",
     "projects/api keys.md",
@@ -216,21 +225,10 @@
     "cybersecurity/cyber-sec-selfnotes",
     "RPG GAME PROJECT/RPG - game.md",
     "cybersecurity/CPT ASSIGNMENT/CPT ASSIGNMENT.md",
-    "cybersecurity/GoogleDorking.md",
-    "what to do.md",
-    "ram-details.md",
     "placement class notes",
-    "imp-imgs/missing-security-flags.png",
     "imp-imgs",
     "missing-security-flags.png",
-    "cybersecurity/bug-bounty assignment.md",
-    "cybersecurity/cybersec tools.md",
-    "cybersecurity/CYBERSECURITY BOOKS.md",
-    "projects/AngeronaVeil/AngeronaVeil.md",
     "projects/AngeronaVeil",
-    "cybersecurity/bug bounty/10-07-2025 ( bug bounty ).md",
-    "cybersecurity/bug bounty/The Bug Hunter's Methodology - Application Analysis - Jason Haddix.md",
-    "cybersecurity/bug bounty/11-07-2025 ( bug bounty ).md",
     "cybersecurity/CPT ASSIGNMENT"
   ]
 }
