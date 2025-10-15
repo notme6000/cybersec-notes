@@ -160,19 +160,9 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
-          },
-          {
-            "id": "46db93154764e150",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
