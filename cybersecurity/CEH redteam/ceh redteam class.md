@@ -255,9 +255,116 @@
 				- buffer overflows
 				- operating system flaws
 		- _vulnerability assessment : types, models, tools, and reports_
-			- 
-				
+---
+#### 18-10-2025
 
-
-
- ---
+- __module 6__
+	- __Malware threats__
+		1. _malware, advanced persistent threats (APTs), trojans, and viruses_
+			1. _malware concepts and components_
+				- _common malware types
+					- trojans
+					- viruses
+					- worms
+					- ransomware
+					- adware
+					- spyware
+				- _common malware components
+					- downloaders
+					- droppers
+					- obfuscators
+					- cryptors
+					- payloads
+				- _motivation behind malware
+					- financial gain
+					- cybercrime and illicit activities
+					- intellectual property theft and corporate espionage
+					- creating botnets 
+					- political or ideological reason
+					- cause diruptions and chaos
+			2. _Advanced persistent Threats (APTs)_
+				- _key characteristics of APT_
+					- goal oriented
+					- long term access
+					- hightly skilled
+					- resourceful
+					- patient and methodical
+				- _phases of an APT life cycle_
+					- preparation
+					- initial intrusion
+					- expansion
+					- persistence
+					- search and exfiltrate
+					- cleanup
+			3. _Trojans_
+				- _purpose of trojan_
+					- disabling security systems
+					- command and control
+					- spying
+					- extortion
+					- using victim's device for storage
+					- destroying hosts (wipers)
+					- theft
+				- _trojans deployment methods_
+					- droppers
+					- downloaders
+					- wrappers
+				- _trojans evasion techniques(aganist antivirus)_
+					- obfuscation
+					- encryption
+					- file splitting
+					- change file extensions
+					- custom builds
+			4. _viruses and worms_
+				- _viruses_
+					- self replicating
+					- human interaction requires
+					- pop ups
+				- _worms_
+					- self replicating
+					- no human interaction requires
+					- consume network bandwidth, create backdoors
+				- _types of viruses_
+					- boot sector viruses
+					- file level viruses
+					- macro viruses
+					- polymorphic viruses
+					- metamorphic viruses
+					- logic bombs
+					- ransomware
+		2. _fileless malware, malware analysis, and countermeasures_
+			1. _filesless malware_
+				- _entry point_
+					- exploits
+					- network based attacks
+					- hardware
+					- execution/injection methods
+			2. _malware analysis_
+				- _discovery_
+				- _"sheep dipping"_
+				- _types of analysis_
+					- static analysis
+						- file hashing
+						- file type
+						- tools : virus total, hybrid analysis
+					- dynamic analysis
+						- isolated test env
+						- tools : sandbox or virtual mechine
+				- _reporting_
+					- malware attribures (type,family)
+					- indicators of compromise
+					- identified vulnerabilities exploited malware entry points
+					- lesson learned to improve future defense
+			3. _countermeasures against malware_
+				- updates and patches
+				- antivirus, antimalware and EDR solutions
+					- antivirus/antimalware
+					- EDR ( endpoint detection and response )
+				- end user security awareness training
+				- regula backups
+				- loggin and monitoring
+				- blocking unwanted application
+				- principle of least privilege
+				- defense in depth
+				- system hardening
+---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notme6000/goals.md",
+                "file": "cybersecurity/CEH redteam/ceh redteam class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "goals"
+              "title": "ceh redteam class"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "379a42ac60565f12",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cybersecurity/CPT/28-07-2025 ( cloud computing ).md",
+                "file": "cybersecurity/CEH redteam/ceh redteam class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 28-07-2025 ( cloud computing )"
+              "title": "Backlinks for ceh redteam class"
             }
           },
           {
@@ -161,8 +162,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,13 +177,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "3d-graph:3D Graph": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "f98def856ec5b1d2",
   "lastOpenFiles": [
+    "notme6000/goals.md",
+    "projects/project MONOLITH/college-major-project.md",
+    "Untitled.base",
+    "15-10-2025.md",
+    "Untitled.canvas",
+    "notme6000/notme6000 ( jithu ).md",
     "cybersecurity/cyber-sec-selfnotes/sql injection.md",
     "cybersecurity/bug-bounty assignment.md",
     "cybersecurity/cybersec tools.md",
@@ -198,7 +202,6 @@
     "git-token/git-tokens.md",
     "imp-imgs/missing-security-flags.png",
     "projects/ubuntu server configuration.md",
-    "notme6000/goals.md",
     "cybersecurity/CEH redteam/ceh redteam class.md",
     "interview/interview-question.md",
     "interview",
@@ -209,12 +212,8 @@
     "projects/projects.md",
     "projects/api keys.md",
     "projects/esp codes.md",
-    "projects/c-projects/c-projects.md",
-    "projects/custom-protocol/my custom protocols.md",
     "2025-08-14-132017_1920x1080_scrot.png",
     "cybersecurity/cyber-sec-selfnotes",
-    "RPG GAME PROJECT/RPG - game.md",
-    "cybersecurity/CPT ASSIGNMENT/CPT ASSIGNMENT.md",
     "placement class notes",
     "imp-imgs",
     "missing-security-flags.png",

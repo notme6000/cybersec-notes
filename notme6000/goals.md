@@ -1,2 +1,2 @@
-__15-10-2025__
-- [ ] 2 portswigger sql injection lab (Practitioner level)
+__17-10-2025__
+- [x] portswigger sql injection lab (Practitioner level, 2 labs)
