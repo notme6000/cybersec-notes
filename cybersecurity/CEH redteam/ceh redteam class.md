@@ -368,3 +368,7 @@
 				- defense in depth
 				- system hardening
 ---
+#### 25-10-2025
+- __module 8
+	- _sniffing_
+		- 

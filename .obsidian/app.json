@@ -6,5 +6,6 @@
   "defaultViewMode": "source",
   "strictLineBreaks": true,
   "livePreview": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showInlineTitle": true
 }
