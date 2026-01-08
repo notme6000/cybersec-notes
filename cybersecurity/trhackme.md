@@ -1,25 +1,3 @@
-# TryHackMe Free Rooms( _they cost $0.00000_ )
-
-Hey people, here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
-All the rooms herein, are absolutely free. ATTACK!!
-
-## Maintainer
-
-> **_This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach out to [me.](https://t.me/winterrdog)_**
-
-## NEWS
-
-Hey cyber-hard guys, The advent of cyber 2025 is on. You can visit [TryHackMe](https://tryhackme.com/invite/winterrdog).
-
-<!-- In case you are interested in playing to win, here is something for you: [Hack2Win: How you can grab extra tickets](https://tryhackme.com/room/hack2win). If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/invite/winterrdog) -->
-
-## HOW YOU CAN SUPPORT
-
-If you genuinely feel like this project helped you a lot, you can always send your appreciation _anonymously_ to either one of these wallets:
-
-- BTC: `17duzuYcv1QRDojfvmFVFowrKBe9EyQ1Bo`
-- USDT: `TWSv2CmzZ9Xgp8j8PwfTDZ329CXJPokpHH`
-
 ## Table of Contents
 
 </aside>
@@ -58,16 +36,16 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Intro Rooms
 
-- [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
-- [ ] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
-- [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
-- [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
-- [ ] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
-- [ ] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
-- [ ] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
-- [ ] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
-- [ ] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
-- [ ] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
+- [x] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+- [x] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
+- [x] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
+- [x] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
+- [x] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
+- [x] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
+- [x] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
+- [x] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
+- [x] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
+- [x] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
 - [ ] [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
 - [ ] [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
 - [ ] [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
@@ -148,8 +126,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Networking
 
-- [ ] [TryHackMe | Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics)
-- [ ] [TryHackMe | Network Security Essentials](https://tryhackme.com/room/networksecurityessentials)
+- [x] [TryHackMe | Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics)
+- [x] [TryHackMe | Network Security Essentials](https://tryhackme.com/room/networksecurityessentials)
 - [ ] [TryHackMe | Network Discovery Detection](https://tryhackme.com/room/networkdiscoverydetection)
 - [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
