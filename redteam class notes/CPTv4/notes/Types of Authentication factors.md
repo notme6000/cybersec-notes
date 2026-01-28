@@ -1,0 +1,76 @@
+# Types of Authentication
+
+## 1. Knowledge-based ( Something you know )
+
+- you prove how your are with secret info
+- passwords / PINs
+- security questions
+
+- _pros_ : simple
+- _cons_ : Easy to forget, reuse, or steal
+
+## 2.Possesion-based ( something you have )
+
+- You authenticate using a physical or digital item.
+- One-time passwords (OTP via SMS/app)
+- Hardware tokens ( YubiKey, smart cards )
+- Mobile authenticator apps
+
+- _pros_ : safer that passwords
+- _cons_ : can be lost or stolen
+
+## 3.Inherence-based/Biometric ( Something you are )
+
+- Uses unique biological traits.
+- fingerprint
+- face recognition
+- iris/retina scan
+- voice recognition
+
+- _pros_ : very convenient 
+- _cons_ : Privacy concerns, false positivies
+
+## 4.Multi-Factor Authentication ( MFA )
+
+- Uses 2 or more authentication types together.
+- Passwords + OTP
+- Fingerprint + device confirmation 
+
+- _pros_ : Much Stronger security
+- _cons_ : Slightly more friction for users
+
+## 5.Two-Factor Authentication ( 2FA )
+
+- A subset of MFA using exactly two authentication factors.
+- passwords + SMS 
+- passwords + authenticator app 
+
+## 6.Certificate-based Authentication
+
+- Uses digital certificates issued by trusted authority.
+- common in enterprise systems
+- Uses in HTTPS, VPNs
+
+- _pros_ : Very secure
+- _cons_ : Setup complexity
+
+## 7.Token-based Authentication 
+
+- Uses signed tokens instead of credentials.
+- JWT ( JSON Web Tokens )
+- OAuth access tokens
+
+- _pros_ : Scalable, stateless
+- _cons_ : Token theft risk if mismanaged
+
+## 8.Behavioral Authentication 
+
+- Analyzes user behavior patterns.
+- Typing speed
+- Mouse movement
+- Location patterns
+
+- _pros_ : invisible to users
+- _cons_ : needs lots of data, probabilistic
+
+
