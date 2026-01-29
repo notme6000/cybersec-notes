@@ -2,7 +2,7 @@
 
 ## 1. Knowledge-based ( Something you know )
 
-- you prove how your are with secret info
+- you prove who your are with secret info
 - passwords / PINs
 - security questions
 
@@ -18,6 +18,8 @@
 
 - _pros_ : safer that passwords
 - _cons_ : can be lost or stolen
+
+![[../../../images/yubikey.jpeg]]
 
 ## 3.Inherence-based/Biometric ( Something you are )
 
