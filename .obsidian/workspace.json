@@ -27,16 +27,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redteam class notes/CPTv4/notes/need to know & least privilege.md",
+                "file": "redteam class notes/CPTv4/notes/7.Types of Authentication factors & MFA.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.Types of Authentication factors & MFA"
+            }
+          },
+          {
+            "id": "99c6eaa6b781ce9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/CPTv4/notes/10.separation-of-duties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "need to know & least privilege"
+              "title": "10.separation-of-duties"
+            }
+          },
+          {
+            "id": "7a97fca7bfdc83d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/CPTv4/Content.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Content"
+            }
+          },
+          {
+            "id": "2fcbd830cf9c6139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/CPTv4/notes/11.Threat,Threat-actor.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.Threat,Threat-actor"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,13 +237,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "798f24fb64ff1eef",
+  "active": "2fcbd830cf9c6139",
   "lastOpenFiles": [
-    "redteam class notes/CPTv4/notes/need to know & least privilege.md~",
+    "redteam class notes/CPTv4/notes/11.Threat,Threat-actor.md~",
+    "redteam class notes/CPTv4/notes/10.separation-of-duties.md",
+    "redteam class notes/CPTv4/notes/10.separation-of-duties.md~",
     "redteam class notes/CPTv4/Content.md",
-    "redteam class notes/CPTv4/notes/need to know & least privilege.md",
+    "images/SoD-finance.webp",
+    "redteam class notes/CPTv4/notes/11.Threat,Threat-actor.md",
+    "redteam class notes/CPTv4/notes/separation-of-duties.md",
+    "redteam class notes/CPTv4/notes/9.need to know & least privilege.md",
+    "redteam class notes/CPTv4/notes/7.Types of Authentication factors & MFA.md",
+    "redteam class notes/CPTv4/notes/separation-of-duties.md~",
+    "separation-of-duties.md",
+    "redteam class notes/CPTv4/notes/need to know & least privilege.md~",
+    "images/leastprivilege.webp",
     "redteam class notes/CPTv4/Content.md~",
-    "redteam class notes/CPTv4/notes/Types of Authentication factors.md",
     "redteam class notes/CPTv4/notes/Types of Authentication factors.md~",
     "images/yubikey.jpeg",
     "images/export.txt",
@@ -209,13 +260,10 @@
     "images/export.json",
     "redteam class notes/CPTv4/Types of Authentication factors.md",
     "redteam class notes/CPTv4/notes",
-    "redteam class notes/CPTv4/Types of Authentication factors.md~",
-    "redteam class notes/CPTv4/Types of Authentication factors",
     "redteam class notes/CPT V4 roadmap.md",
     "intro class CPT.md",
     "redteam class notes/CPTv4 ASSESSMENT.md",
     "owasp top 10 presentation.md",
-    "redteam class notes/CPTv4",
     "interview/self intro.md",
     "interview/interview-question.md",
     "notme6000/goals.md",
@@ -229,10 +277,6 @@
     "IoT and OT Hacking.md",
     "legal-x.md",
     "projects/ideas.md",
-    "cybersecurity/CEH redteam/ceh redteam class.md",
-    "projects/projects.md",
-    "placement class notes/placement class notes.md",
-    "pass phrases/pass phrases main.md",
     "Untitled.canvas",
     "imp-imgs/missing-security-flags.png",
     "2025-08-14-132017_1920x1080_scrot.png",
