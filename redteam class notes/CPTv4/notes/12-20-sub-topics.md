@@ -314,7 +314,7 @@
     1. Attacker targets users or systems 
     2. credentials are stolen using: 
         - Phishing emails
-        - Malware / keyloggers
+        - Malware / key-loggers
         - Fake login pages
         - Data breaches
     3. Attacker collects username & passwords
