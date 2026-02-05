@@ -14,25 +14,26 @@
 - linux has one root directory
 
 /
-|- bin
-|- boot
-|- dev
-|- etc
-|- home
-|- lib
-|- lib64
-|- media
-|- mnt
-|- opt
-|- proc
-|- root
-|- run
-|- sbin
-|- srv
-|- sys
-|- tmp
-|- usr
-|- var
+
+- bin
+- boot
+- dev
+- etc
+- home
+- lib
+- lib64
+- media
+- mnt
+- opt
+- proc
+- root
+- run
+- sbin
+- srv
+- sys
+- tmp
+- usr
+- var
 
 
 - no `C:` or `D:`

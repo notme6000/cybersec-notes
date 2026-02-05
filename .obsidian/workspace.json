@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a97fca7bfdc83d8",
+            "id": "c8374d271ea191a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redteam class notes/CPTv4/notes/12.motives, goals, objectives of security attacks.md",
-                "mode": "preview",
+                "file": "redteam class notes/CPTv4/assesment.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.motives, goals, objectives of security attacks"
+              "title": "assesment"
             }
           },
           {
-            "id": "c8374d271ea191a4",
+            "id": "25f278df0489aaf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,35 +36,49 @@
             }
           },
           {
-            "id": "31be4d25848d3289",
+            "id": "269e8583bd85ec5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redteam class notes/CPTv4/assesment.md",
+                "file": "redteam class notes/CPTv4/notes-completed.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "assesment"
+              "title": "notes-completed"
             }
           },
           {
-            "id": "7ebbc83008d8ab82",
+            "id": "244caef61e648489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redteam class notes/others/linux-file.md",
+                "file": "redteam class notes/CPTv4/my order CPTv4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linux-file"
+              "title": "my order CPTv4"
+            }
+          },
+          {
+            "id": "71909fdda96efeed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/CPTv4/notes/DDoS & DDoS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DDoS & DDoS"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "379a42ac60565f12",
@@ -223,49 +236,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ebbc83008d8ab82",
+  "active": "71909fdda96efeed",
   "lastOpenFiles": [
+    "git-token/git-tokens.md",
+    "pass phrases/pass phrases.md",
+    "pass phrases/pass phrases main.md",
+    "redteam class notes/CPTv4/notes/DDoS & DDoS.md",
+    "redteam class notes/CPTv4/notes/DDoS & DDoS.md~",
+    "redteam class notes/CPTv4/my order CPTv4.md",
+    "redteam class notes/CPTv4/notes-completed.md",
+    "redteam class notes/CPTv4/Content.md",
+    "redteam class notes/CPTv4/notes/21-24-topics.md",
+    "redteam class notes/others/linux-file.md",
+    "redteam class notes/CPTv4/assesment.md",
+    "redteam class notes/CPTv4/notes/12.motives, goals, objectives of security attacks.md",
+    "Untitled.md",
+    "notes-completed.md",
+    "redteam class notes/notes-completed.md",
+    "redteam class notes/my order CPTv4.md",
+    "notes-completed.md~",
+    "my order CPTv4.md",
+    "my order CPTv4.md~",
+    "redteam class notes/CPTv4/notes/21-24-topics.md~",
+    "DDoS & DDoS.md",
+    "redteam class notes/CPTv4/notes/4913",
     "redteam class notes/others/linux-file.md~",
     "redteam class notes/others/4913",
-    "redteam class notes/CPTv4/notes/21-24-topics.md",
-    "redteam class notes/CPTv4/notes/21-24-topics.md~",
-    "redteam class notes/CPTv4/assesment.md",
     "redteam class notes/CPTv4/notes/7.Types of Authentication factors & MFA.md~",
     "redteam class notes/CPTv4/notes/12-20-sub-topics.md~",
-    "redteam class notes/CPTv4/notes/4913",
     "redteam class notes/CPTv4/notes/9.need to know & least privilege.md",
     "redteam class notes/CPTv4/notes/7.Types of Authentication factors & MFA.md",
-    "redteam class notes/CPTv4/Content.md",
     "redteam class notes/CPTv4/notes/12-20-sub-topics.md",
     "redteam class notes/CPTv4/assesment.md~",
     "Eavesdropping.md",
-    "redteam class notes/CPTv4/notes/12.motives, goals, objectives of security attacks.md",
-    "redteam class notes/CPTv4/notes/12.motives, goals, objectives of security attacks.md~",
     "redteam class notes/CPTv4/notes/10.separation-of-duties.md",
     "redteam class notes/CPTv4/notes/12.motives, goals, objectes of security attacks.md",
-    "redteam class notes/CPTv4/notes/12.motives, goals, objectes of security attacks.md~",
     "images/financial-gains-hacking.png",
     "images/hacktivists.png",
     "redteam class notes/CPTv4/notes/11.Threat,Threat-actor.md",
-    "redteam class notes/CPTv4/notes/11.Threat,Threat-actor.md~",
-    "redteam class notes/CPTv4/notes/10.separation-of-duties.md~",
     "images/SoD-finance.webp",
     "redteam class notes/CPTv4/notes/separation-of-duties.md",
     "separation-of-duties.md",
     "images/leastprivilege.webp",
     "images/yubikey.jpeg",
-    "redteam class notes/CPTv4/Types of Authentication factors.md",
-    "redteam class notes/CPT V4 roadmap.md",
-    "intro class CPT.md",
-    "redteam class notes/CPTv4 ASSESSMENT.md",
-    "owasp top 10 presentation.md",
-    "interview/self intro.md",
-    "interview/interview-question.md",
-    "notme6000/goals.md",
-    "notme6000/notme6000 ( jithu ).md",
-    "project x/project-x check list.md",
-    "notme6000/hobbies and activities.md",
-    "project x/project X.md",
     "Untitled.canvas",
     "imp-imgs/missing-security-flags.png",
     "2025-08-14-132017_1920x1080_scrot.png",
