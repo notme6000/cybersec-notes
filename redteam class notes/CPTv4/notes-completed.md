@@ -38,7 +38,7 @@
 - [ ] Typosquatting  
 - [ ] Zero-Day Attacks  
 - [ ] Advanced Persistent Threats (APT)  
-- [ ] Types of Hackers  
+- [x] Types of Hackers  
 - [ ] Types of Malware  
 - [ ] Information Security Governance & Management  
 - [ ] ISO 27001  
