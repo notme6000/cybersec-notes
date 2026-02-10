@@ -1,35 +1,35 @@
 # CPT V4 SYLLABUS NOTES COMPLETED 
 ## Module 1 NETWORK AND CYBER SECURITY BUILDING BLOCKS
 
-- [x] Careers & Roles in Cybersecurity  
-- [x] Information Security & Cybersecurity  
-- [x] CIA Triad (Confidentiality, Integrity, Availability)  
-- [x] Threat, Threat Vector, Threat Actor, Vulnerability, Attack, Breach, Risk  
-- [x] AAA (Identification, Authentication, Authorization, Accounting)  
-- [x] Non-Repudiation  
-- [x] Types of Authentication Factors  
-- [x] Multi Factor Authentication  
-- [x] Need to Know, Least Privilege  
-- [x] Separation of Duties  
-- [x] Motives, Goals & Objectives of Security Attacks  
-- [x] Eavesdropping  
-- [x] Replay Attacks  
-- [x] Man-In-The-Middle  
-- [x] Session Hijacking  
-- [x] Drive by Download  
-- [x] Ransomware  
-- [x] Loss of Assets  
-- [x] Stolen Credentials  
-- [x] Pretexting (Identity Theft)  
-- [x] Vulnerability Exploitation  
-- [x] Mistakes & Errors  
-- [x] Malwares  
+- [ ] Careers & Roles in Cybersecurity  
+- [ ] Information Security & Cybersecurity  
+- [ ] CIA Triad (Confidentiality, Integrity, Availability)  
+- [ ] Threat, Threat Vector, Threat Actor, Vulnerability, Attack, Breach, Risk  
+- [ ] AAA (Identification, Authentication, Authorization, Accounting)  
+- [ ] Non-Repudiation  
+- [ ] Types of Authentication Factors  
+- [ ] Multi Factor Authentication  
+- [ ] Need to Know, Least Privilege  
+- [ ] Separation of Duties  
+- [ ] Motives, Goals & Objectives of Security Attacks  
+- [ ] Eavesdropping  
+- [ ] Replay Attacks  
+- [ ] Man-In-The-Middle  
+- [ ] Session Hijacking  
+- [ ] Drive by Download  
+- [ ] Ransomware  
+- [ ] Loss of Assets  
+- [ ] Stolen Credentials  
+- [ ] Pretexting (Identity Theft)  
+- [ ] Vulnerability Exploitation  
+- [ ] Mistakes & Errors  
+- [ ] Malwares  
 - [ ] DDoS & DDoS Attacks  
 - [ ] Botnet 
 - [ ] DNS Spoofing & Poisoning  
 - [ ] ARP Spoofing & Poisoning  
 - [ ] Wireless Attacks  
-- [x] Social Engineering Attacks  
+- [ ] Social Engineering Attacks  
 - [ ] Masquerading  
 - [ ] Side-Channel Attacks  
 - [ ] Pass the Hash  
@@ -38,7 +38,7 @@
 - [ ] Typosquatting  
 - [ ] Zero-Day Attacks  
 - [ ] Advanced Persistent Threats (APT)  
-- [x] Types of Hackers  
+- [ ] Types of Hackers  
 - [ ] Types of Malware  
 - [ ] Information Security Governance & Management  
 - [ ] ISO 27001  
@@ -149,7 +149,7 @@
 - [ ] Hydra  
 - [ ] Rainbow Tables  
 - [ ] Steganography Cracking  TRUE
-- [ ] Metasploit Exploitation  
+- [x] Metasploit Exploitation  
 - [ ] Post Exploitation  
 - [ ] Privilege Escalation  
 - [ ] Empire Framework  

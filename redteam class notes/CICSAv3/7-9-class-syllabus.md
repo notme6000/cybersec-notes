@@ -1,14 +1,13 @@
 ## MODULE 1 CYBER SECURITY BUILDING BLOCKSSYLL
-
-- [x] Cyber security career roles                               (05-02-2026)
+- [x] Cyber security career roles   (05-02-2026)
 - [x] CIA Triad(05-02-2026) 
 - [x] Types of threats(05-02-2026) 
 - [x] APT(05-02-2026) 
-- [ ] Types of Hackers 
+- [x] Types of Hackers (06-02-2026) 
 - [x] Information Security Standards (05-02-2026)
-- [ ] ISO/IEC 27001 
-- [ ] NIST Cybersecurity Framework (CSF) 
-- [ ] Payment Card Industry Data Security Standard (PCI DSS) 
+- [x] ISO/IEC 27001(06-02-2026) 
+- [x] NIST Cybersecurity Framework (CSF)(06-02-2026) 
+- [x] Payment Card Industry Data Security Standard (PCI DSS)(06-02-2026) 
 - [x] AAA Security(05-02-2026) 
 - [x] Non-repudiation(05-02-2026) 
 - [x] Types of authentication Factors(05-02-2026) 
@@ -17,17 +16,17 @@
 ---
 ## MODULE 2 CYBER ATTACKS
 
-- [ ] Social Engineering attacks 
-- [ ] Brute force attack 
-- [ ] Replay attack 
-- [ ] MTM attack 
-- [ ] Session hijacking attack 
-- [ ] Malware attack 
-- [ ] DOS attack and Ddos attack 
+- [x] Social Engineering attacks(06-02-2026) 
+- [x] Brute force attack 
+- [x] Replay attack 
+- [x] MTM attack 
+- [x] Session hijacking attack 
+- [x] Malware attack 
+- [x] DOS attack and Ddos attack 
 - [ ] DNS spoofing attack 
 - [ ] ARP spoofing 
 - [ ] Wireless attacks 
-- [ ] Side channel attack 
+- [x] Side channel attack 
 ---
 ## MODULE 3 NETWORK SECURITY
 
