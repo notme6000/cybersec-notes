@@ -24,30 +24,30 @@
 - [x] Malware attack (09-02-2026) 
 - [x] DOS attack and Ddos attack (09-02-2026) 
 - [x] DNS spoofing attack (10-02-2026)
-- [x] ARP spoofing (12-02-20226)
-- [ ] Wireless attacks (12-02-20226)
+- [x] ARP spoofing 
+- [ ] Wireless attacks 
 - [x] Side channel attack(10-02-2026)
  
 ---
 ## MODULE 3 NETWORK SECURITY
 
 - [x] OSI Layers (11-02-2026)
-- [ ] Secure Protocols 
-- [ ] TLS 
+- [x] Secure Protocols 
+- [x] TLS 
 - [x] HTTPS(10-02-2026)
-- [ ] SSH 
-- [ ] SFTP 
-- [ ] DNSSEC 
-- [x] S/MIME(12-02-20226)
-- [x] SMTPS(12-02-20226)
-- [x] POP3 (12-02-20226)
-- [x] IMAP (12-02-20226)
+- [x] SSH 
+- [x] SFTP 
+- [x] DNSSEC 
+- [x] S/MIME 
+- [ ] SMTPS 
+- [x] POP3 
+- [x] IMAP 
 - [ ] AAA Protocols(RADIUS,TACACS+,Active Directory 
 - [ ] EAP 
 - [ ] WPA3,WPA2 
-- [ ] VPN 
-- [ ] VLAN 
-- [ ] Network Segmentation (LAN,Internet,Extranet,DMZ) 
+- [x] VPN 
+- [x] VLAN 
+- [x] Network Segmentation (LAN,Internet,Extranet,DMZ) 
 - [ ] Zero trust architecture 
 ---
 ## MODULE 4 LINUX FOR HACKERS
