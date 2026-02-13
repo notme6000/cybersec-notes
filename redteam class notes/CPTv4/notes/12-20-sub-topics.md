@@ -308,49 +308,11 @@
 
 ## Stolen-Credentials
 
-- Stolen credentials refer to a security attack where attackers obtain legitimate authentication information and use it to access systems, applications, or networks as a authorized user. 
+
 
 - __How the Attack is Done__
-    1. Attacker targets users or systems 
-    2. credentials are stolen using: 
-        - Phishing emails
-        - Malware / key-loggers
-        - Fake login pages
-        - Data breaches
-    3. Attacker collects username & passwords
-    4. Stolen credentials are used to log in 
-    5. Attackers accesses data, services, or systems
-
 - __How it works__
-    - Most systems rely on credentials for authentication
-    - if credentials are:
-        - reused across services
-        - weak 
-        - not protected by MFA
-    - the system cannot distinguish the attacker from the real user
-    - Attackers may automate login attempts (credential stuffing)
-
-- __Common ways credentials are stolen__
-    - _Phishing_ : fake emails and websites
-    - _Keyloggin malware_ : records keystrokes
-    - _Data breaches_ : leaked password databases
-    - _Man-in-the-middle attacks_
-    - _Social engineering_
-
 - __Real-World Attack Examples__
-    - _Large-Scale Data breaches_
-        - Stolen username and passwords sold online
-        - Used in further attacks
-    - _Credential stuffing attacks_
-        - Attackers use leaked credentials
-        - automatically try them on banking, email, social media sites
-
 - __Prevention / Defense__
-    - enable Multi-Factor Authentication (MFA)
-    - Use strong, unique, passwords
-    - Password managers
-    - Phishing awareness training
-    - Monitor for unusual login behavior
-
 
 
