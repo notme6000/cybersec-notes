@@ -33,9 +33,9 @@
 
 - [x] OSI Layers (11-02-2026)
 - [ ] Secure Protocols 
-- [ ] TLS 
+- [x] TLS (13-02-2026)
 - [x] HTTPS(10-02-2026)
-- [ ] SSH 
+- [x] SSH (13-02-2026)
 - [ ] SFTP 
 - [ ] DNSSEC 
 - [x] S/MIME(12-02-20226)
@@ -45,7 +45,7 @@
 - [ ] AAA Protocols(RADIUS,TACACS+,Active Directory 
 - [ ] EAP 
 - [ ] WPA3,WPA2 
-- [ ] VPN 
+- [x] VPN (13-02-2026)
 - [ ] VLAN 
 - [ ] Network Segmentation (LAN,Internet,Extranet,DMZ) 
 - [ ] Zero trust architecture 
