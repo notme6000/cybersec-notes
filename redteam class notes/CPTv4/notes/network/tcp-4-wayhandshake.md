@@ -56,6 +56,8 @@ Example:
 ```
 FIN
 Seq = y
+Purpose: Reliable communication
+
 ```
 
 Meaning:

@@ -32,37 +32,40 @@
 ## MODULE 3 NETWORK SECURITY
 
 - [x] OSI Layers (11-02-2026)
-- [ ] Secure Protocols 
+- [x] Secure Protocols (13-02-2026)
 - [x] TLS (13-02-2026)
 - [x] HTTPS(10-02-2026)
 - [x] SSH (13-02-2026)
-- [ ] SFTP 
-- [ ] DNSSEC 
+- [x] SFTP (13-02-2026)
+- [x] DNSSEC (13-02-2026)
 - [x] S/MIME(12-02-20226)
 - [x] SMTPS(12-02-20226)
 - [x] POP3 (12-02-20226)
 - [x] IMAP (12-02-20226)
 - [ ] AAA Protocols(RADIUS,TACACS+,Active Directory 
-- [ ] EAP 
-- [ ] WPA3,WPA2 
+- [x] EAP (16-02-2026)
+- [x] WPA3,WPA2 (16-02-2026)
+ 
 - [x] VPN (13-02-2026)
 - [ ] VLAN 
-- [ ] Network Segmentation (LAN,Internet,Extranet,DMZ) 
+- [x] Network Segmentation (LAN,Internet,Extranet,DMZ) (16-02-2026)
+ 
 - [ ] Zero trust architecture 
 ---
 ## MODULE 4 LINUX FOR HACKERS
 
-- [ ] Introduction to Unix and Linux 
-- [ ] Linux Distributions   1-2
-- [ ] Kali linux 
-- [ ] Virtualization 
-- [ ] Installing Kali linux 
-- [ ] https://tryhackme.com/jr/introlinuxrtkch 
-- [ ] https://linuxjourney.com/ RESEARCH
-- [ ] Linux File system 
-- [ ] Linux commands 
-- [ ] Linux Permissions 
-- [ ] Linux utilities 
+- [x] Introduction to Unix and Linux (16-02-2026)
+ 
+- [x] Linux Distributions  1-2(16-02-2026)
+- [x] Kali linux (16-02-2026)
+- [x] Virtualization (16-02-2026)
+- [x] Installing Kali linux (16-02-2026)
+- [x] https://tryhackme.com/jr/introlinuxrtkch (16-02-2026)
+- [x] https://linuxjourney.com/ RESEARCH
+- [x] Linux File system 
+- [x] Linux commands (16-02-2026)
+- [x] Linux Permissions (16-02-2026)
+- [x] Linux utilities 
 ---
 ## MODULE 5 PENETRATION TESTING PLANNING
 
