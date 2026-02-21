@@ -82,7 +82,5 @@ Expect custom binaries, restricted shells, and multi-step exploitation chains. T
 
 
 
-### Recommendation for Starting
 
-If you are new, start with **Kioptrix #1** and **DC: 1**. These will give you the confidence boost you need.
 

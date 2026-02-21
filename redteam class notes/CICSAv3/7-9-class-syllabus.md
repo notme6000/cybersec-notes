@@ -24,8 +24,8 @@
 - [x] Malware attack (09-02-2026) 
 - [x] DOS attack and Ddos attack (09-02-2026) 
 - [x] DNS spoofing attack (10-02-2026)
-- [x] ARP spoofing (12-02-20226)
-- [ ] Wireless attacks (12-02-20226)
+- [x] ARP spoofing (12-02-2026)
+- [ ] Wireless attacks (12-02-2026)
 - [x] Side channel attack(10-02-2026)
  
 ---
@@ -38,24 +38,21 @@
 - [x] SSH (13-02-2026)
 - [x] SFTP (13-02-2026)
 - [x] DNSSEC (13-02-2026)
-- [x] S/MIME(12-02-20226)
-- [x] SMTPS(12-02-20226)
-- [x] POP3 (12-02-20226)
-- [x] IMAP (12-02-20226)
+- [x] S/MIME(12-02-2026)
+- [x] SMTPS(12-02-2026)
+- [x] POP3 (12-02-2026)
+- [x] IMAP (12-02-2026)
 - [ ] AAA Protocols(RADIUS,TACACS+,Active Directory 
 - [x] EAP (16-02-2026)
 - [x] WPA3,WPA2 (16-02-2026)
- 
 - [x] VPN (13-02-2026)
 - [ ] VLAN 
 - [x] Network Segmentation (LAN,Internet,Extranet,DMZ) (16-02-2026)
- 
 - [ ] Zero trust architecture 
 ---
 ## MODULE 4 LINUX FOR HACKERS
 
 - [x] Introduction to Unix and Linux (16-02-2026)
- 
 - [x] Linux Distributions  1-2(16-02-2026)
 - [x] Kali linux (16-02-2026)
 - [x] Virtualization (16-02-2026)
@@ -69,9 +66,9 @@
 ---
 ## MODULE 5 PENETRATION TESTING PLANNING
 
-- [ ] What is Pentesting and Pentesting phases 
-- [ ] Planning(Identify purpose,Scoping,Resources) 
-- [ ] Information gathering 
+- [x] What is Pentesting and Pentesting phases (19-02-2026)
+- [x] Planning(Identify purpose,Scoping,Resources) 
+- [x] Information gathering 
 - [ ] Scanning and enumeration 
 - [ ] Vulnerability Assessment 
 - [ ] Exploitation 
