@@ -69,11 +69,11 @@
 - [x] What is Pentesting and Pentesting phases (19-02-2026)
 - [x] Planning(Identify purpose,Scoping,Resources) 
 - [x] Information gathering 
-- [ ] Scanning and enumeration 
-- [ ] Vulnerability Assessment 
-- [ ] Exploitation 
-- [ ] Post Exploitation 
-- [ ] Clearing tracks and reporting,remediation 
+- [x] Scanning and enumeration 
+- [x] Vulnerability Assessment 
+- [x] Exploitation 
+- [x] Post Exploitation 
+- [x] Clearing tracks and reporting,remediation 
 - [ ] Anonimity and privacy Introduction 
 - [ ] TOR Networks 
 - [ ] TOR browser Installation and Darkweb 
