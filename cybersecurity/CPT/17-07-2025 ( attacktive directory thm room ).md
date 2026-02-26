@@ -1,3 +1,0 @@
-- enum4linux - used for smp enumeration ( username,password,domain, etc)
-- kerbrute - used to bruteforce kerberos
-- 

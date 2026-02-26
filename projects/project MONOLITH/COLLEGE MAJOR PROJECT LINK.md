@@ -1,6 +1,0 @@
-[[college-major-project]]
-[[project MONOLITH]]
-[[project presentation]]
-[[scan output]]
-[[tools]]
-[[ENCRYPTION]]

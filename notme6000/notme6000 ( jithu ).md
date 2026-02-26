@@ -1,8 +1,0 @@
-[[COLLEGE]]
-[[cybersecurity]]
-[[projects]]
-[[programming-languages]]
-[[LINUX]]
-[[RPG - game]]
-[[COURSE]]
-[[pass phrases main]]

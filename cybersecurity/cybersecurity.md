@@ -1,5 +1,0 @@
-[[CYBERSECURITY BOOKS]]
-[[CPT]]
-[[bandit-over the wire]]
-[[bug bounty]]
-[[ceh redteam class]]

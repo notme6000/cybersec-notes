@@ -1,4 +1,0 @@
-- ### open redirect
-	- intigriti ( open redirect/SSRF payload generator )
-	- [intigriti tools](https://www.intigriti.com/researchers/hackademy/hacking-tools)	
-	- 	
