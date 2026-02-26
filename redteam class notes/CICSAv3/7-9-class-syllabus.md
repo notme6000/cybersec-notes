@@ -58,26 +58,27 @@
 - [x] Virtualization (16-02-2026)
 - [x] Installing Kali linux (16-02-2026)
 - [x] https://tryhackme.com/jr/introlinuxrtkch (16-02-2026)
-- [x] https://linuxjourney.com/ RESEARCH
-- [x] Linux File system 
+- [x] https://linuxjourney.com/ RESEARC(16-02-2026)
+- [x] Linux File system(16-02-2026)
 - [x] Linux commands (16-02-2026)
 - [x] Linux Permissions (16-02-2026)
-- [x] Linux utilities 
+- [x] Linux utilities(16-02-2026)
+ 
 ---
 ## MODULE 5 PENETRATION TESTING PLANNING
 
 - [x] What is Pentesting and Pentesting phases (19-02-2026)
-- [x] Planning(Identify purpose,Scoping,Resources) 
-- [x] Information gathering 
-- [x] Scanning and enumeration 
-- [x] Vulnerability Assessment 
-- [x] Exploitation 
-- [x] Post Exploitation 
-- [x] Clearing tracks and reporting,remediation 
-- [ ] Anonimity and privacy Introduction 
-- [ ] TOR Networks 
-- [ ] TOR browser Installation and Darkweb 
-- [ ] Anonimizing Kali linux 
+- [x] Planning(Identify purpose,Scoping,Resources) (20-02-2026) 
+- [x] Information gathering(20-02-2026) 
+- [x] Scanning and enumeration(20-02-2026) 
+- [x] Vulnerability Assessment(20-02-2026) 
+- [x] Exploitation(20-02-2026) 
+- [x] Post Exploitation (20-02-2026) 
+- [x] Clearing tracks and reporting,remediation (20-02-2026) 
+- [x] Anonimity and privacy Introduction(23-02-2026) 
+- [x] TOR Networks(23-02-2026) 
+- [x] TOR browser Installation and Darkweb(23-02-2026) 
+- [x] Anonimizing Kali linux(23-02-2026) 
 - [ ] Tails OS 
 - [ ] Creating fake id 
 - [ ] Secure communication in dark and deepweb 

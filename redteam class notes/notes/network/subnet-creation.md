@@ -163,7 +163,7 @@ New subnet mask is:
 
 
 
-# 8) How Many Hosts Per Subnet?
+# 8) How Many Hosts 24Per Subnet?
 
 Now we have:
 
