@@ -53,14 +53,10 @@
             "id": "b007fb53e47a599f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "redteam class notes/CPTv4/notes/linux/linux-perms.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "linux-perms"
+              "title": "New tab"
             }
           },
           {
@@ -239,6 +235,12 @@
   },
   "active": "b007fb53e47a599f",
   "lastOpenFiles": [
+    "redteam class notes/CPTv4(SUN).md",
+    "redteam class notes/CPTv4(11:00-2:00).md",
+    "redteam class notes/CICSAv3(6:00-8:00).md",
+    "redteam class notes/CICSAv3-6:00-8:00.md",
+    "redteam class notes/sub-class.md~",
+    "redteam class notes/sub-class.md",
     "redteam class notes/CPTv4/notes/linux/virtualization.md",
     "redteam class notes/CPTv4/notes/linux/linux-perms.md",
     "redteam class notes/CPTv4/notes/linux/linux-filesys.md",
@@ -265,16 +267,10 @@
     "redteam class notes/CPTv4/notes/active-dir/Active-Directory-Hierarchy.md~",
     "redteam class notes/CPTv4/notes/active-dir/Active-Directory-Hierarchy.md",
     "redteam class notes/CPTv4/notes/basics/types-of-hackers.md",
-    "redteam class notes/CPTv4/notes/basics/12-20-sub-topics.md",
-    "redteam class notes/CPTv4/Content.md",
     "redteam class notes/CPTv4/notes/basics/social-eng-attack.md~",
     "Untitled 1.base",
     "Untitled.base",
     "redteam class notes/CPTv4/notes/basics/dos-and-ddos.md~",
-    "redteam class notes/CPTv4/notes/basics/malwares.md",
-    "redteam class notes/CPTv4/notes/basics/12.motives, goals, objectives of security attacks.md",
-    "redteam class notes/CPTv4/notes/basics/types-of-hackers.md~",
-    "redteam class notes/CPTv4-weekend/syllabus.md",
     "images/3-way.jpeg",
     "images/4-way.jpg",
     "images/financial-gains-hacking.png",
