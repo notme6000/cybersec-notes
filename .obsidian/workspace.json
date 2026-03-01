@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "d82330225de90891",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c7623a597d33e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d8667dae35eb251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/notes/network/tcp-3-wayhandshake.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tcp-3-wayhandshake"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b82f8cc917d39b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fafc9b9a178867a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ee9a5ec361c300f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d115511ee7216953",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "20d0786050090574",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "402a8158155a7a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5bf473476a0df31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede89aedb161a62f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "redteam class notes/notes/pentesting/pentesting-basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for pentesting-basics"
+            }
+          },
+          {
+            "id": "e6133d6ac767202c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "redteam class notes/notes/pentesting/pentesting-basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from pentesting-basics"
+            }
+          },
+          {
+            "id": "2c02529c94ec7ee4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "29b12d22dc740922",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "af120583bf444bf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "redteam class notes/notes/pentesting/pentesting-basics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of pentesting-basics"
+            }
+          },
+          {
+            "id": "8f6ab254ecba9b96",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6d8667dae35eb251",
+  "lastOpenFiles": [
+    "redteam class notes/notes/network/udp-tcp.md",
+    "redteam class notes/notes/network/protocols.md",
+    "redteam class notes/notes/network/ssh.md",
+    "redteam class notes/notes/network/tcp-ip-model.md",
+    "redteam class notes/notes/network/osi-model-packet-creation.md",
+    "redteam class notes/notes/network/ip-subnetting.md",
+    "redteam class notes/notes/basics/APT.md",
+    "redteam class notes/notes/network/MAC.md~",
+    "redteam class notes/notes/network/MAC.md",
+    "redteam class notes/notes/network/ports.md~",
+    "redteam class notes/notes/network/ports.md",
+    "redteam class notes/notes/basics/zero-day-attack.md",
+    "redteam class notes/notes/basics/side-channel.md",
+    "redteam class notes/notes/basics/masquerading.md",
+    "redteam class notes/notes/basics/typosquatting.md",
+    "redteam class notes/notes/basics/APT.md~",
+    "redteam class notes/notes/basics/zero-day-attack.md~",
+    "redteam class notes/notes/basics/malwares.md",
+    "redteam class notes/notes/basics/12-20-sub-topics.md",
+    "redteam class notes/notes/basics/dos-and-ddos.md",
+    "redteam class notes/notes/basics/social-eng-attack.md",
+    "redteam class notes/notes/basics/encryption-hash-encoding.md",
+    "redteam class notes/notes/basics/10.separation-of-duties.md",
+    "redteam class notes/notes/basics/9.need to know & least privilege.md",
+    "redteam class notes/notes/basics/11.Threat,Threat-actor.md",
+    "redteam class notes/notes/pentesting/pentesting-basics.md",
+    "redteam class notes/notes/network/tls-handshake.md"
+  ]
+}
