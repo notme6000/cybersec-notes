@@ -7,6 +7,7 @@
     - threats and details (threats vector and actor)
     - motives, goals and objectives
     - types of hackers
+---
 ### 01-03-2026
 - cybersec basics
     - basic attack
@@ -31,9 +32,25 @@
     - protocols
         - TCP
         - UDP
-
-
-
+---
+### 08-03-2026
+- protocols
+    - IPv4 and IPv6
+    - ports
+    - TCP 3-wayhandshake and 4-wayhandshake
+    - http and https
+    - ssh
+    - ftp
+    - smtp
+    - pop3 and imap
+    - mime
+    - ARP
+    - DHCP
+    - DNS
+    - telnet
+    
+    
+    
 
 
 
