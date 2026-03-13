@@ -134,15 +134,6 @@ Used in:
 
 
 
-## 5. Micro-Segmentation
-
-Advanced form of segmentation.
-
-* Applied at workload or server level
-* Often used in virtualized or cloud environments
-* Enforced using software-defined networking (SDN)
-
-Limits communication even within the same subnet.
 
 
 

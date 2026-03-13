@@ -34,9 +34,121 @@
               "icon": "lucide-file",
               "title": "csrf"
             }
+          },
+          {
+            "id": "a2c3476c0fc6d5d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/notes/pentesting/pentesting-basics.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pentesting-basics"
+            }
+          },
+          {
+            "id": "c57c46e23eadd782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/notes/network/protocols.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "protocols"
+            }
+          },
+          {
+            "id": "5213fe4e8c017573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/notes/network/dns.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dns"
+            }
+          },
+          {
+            "id": "605e2a632fbc8fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/notes/network/vpn.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vpn"
+            }
+          },
+          {
+            "id": "4cc63f9b081a6bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/notes/network/vlan.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vlan"
+            }
+          },
+          {
+            "id": "b2ec1e0894b0079c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/notes/network/network-segmentation.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "network-segmentation"
+            }
+          },
+          {
+            "id": "0db45b4f418ac17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/notes/network/wifi-sec-protocols.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wifi-sec-protocols"
+            }
+          },
+          {
+            "id": "364f6e4a4287b64a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam class notes/notes/active-dir/AD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AD"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -209,14 +321,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "498bd2432995a9ac",
+  "active": "364f6e4a4287b64a",
   "lastOpenFiles": [
+    "redteam class notes/notes/active-dir/AD.md~",
+    "redteam class notes/notes/network/wifi-sec-protocols.md",
+    "redteam class notes/notes/network/network-segmentation.md",
+    "redteam class notes/notes/network/vlan.md",
+    "redteam class notes/notes/network/vpn.md",
+    "redteam class notes/notes/network/arp-protocol.md",
+    "redteam class notes/notes/network/protocols.md",
+    "redteam class notes/notes/network/dns.md",
+    "redteam class notes/notes/pentesting/pentesting-basics.md",
+    "redteam class notes/notes/web/csrf.md",
+    "redteam class notes/notes/web/csrf.md~",
     "class-completion/CICSAv3(6:00-8:00).md~",
     "class-completion/CPTv4(11:00-2:00).md~",
-    "redteam class notes/notes/web/csrf.md~",
-    "redteam class notes/notes/network/vpn.md",
     "redteam class notes/notes/network/dhcp.md",
-    "redteam class notes/notes/network/dns.md",
     "redteam class notes/notes/network/tcp-3-wayhandshake.md",
     "redteam class notes/notes/network/tcp-4-wayhandshake.md",
     "redteam class notes/notes/network/ip-subnetting.md",
@@ -224,15 +344,12 @@
     "redteam class notes/notes/network/osi-model-packet-creation.md",
     "redteam class notes/notes/network/ports.md",
     "redteam class notes/notes/network/subnet-creation.md",
-    "redteam class notes/notes/network/protocols.md",
     "redteam class notes/notes/network/dns-spoofing-attack.md",
-    "redteam class notes/notes/network/arp-protocol.md",
     "class-completion/CPTv4(SUN).md~",
     "class-completion/CICSAv3(6:00-8:00).md",
     "class-completion/CPTv4(11:00-2:00).md",
     "redteam class notes/notes/pentesting/MITRE-NIST.md",
     "redteam class notes/notes/network/MAC.md",
-    "redteam class notes/notes/pentesting/pentesting-basics.md",
     "redteam class notes/notes/pentesting/MITRE-NIST.md~",
     "redteam-misc/webinar/malware-analysis.md",
     "zijlyiHj",
@@ -240,12 +357,7 @@
     "redteam-misc/webinar/malware-analysis.md~",
     "redteam class notes/notes/network/udp-tcp.md",
     "redteam class notes/notes/network/ssh.md",
-    "redteam class notes/notes/basics/APT.md",
     "redteam class notes/notes/network/MAC.md~",
-    "redteam class notes/notes/network/ports.md~",
-    "redteam class notes/notes/basics/zero-day-attack.md",
-    "redteam class notes/notes/basics/side-channel.md",
-    "redteam class notes/notes/basics/masquerading.md",
-    "redteam class notes/notes/basics/APT.md~"
+    "redteam class notes/notes/network/ports.md~"
   ]
 }
