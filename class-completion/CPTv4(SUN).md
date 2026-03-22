@@ -1,3 +1,5 @@
+---
+---
 ### 22-02-2026
 - cybersec basics
     - CIA
@@ -7,6 +9,7 @@
     - threats and details (threats vector and actor)
     - motives, goals and objectives
     - types of hackers
+---
 ---
 ### 01-03-2026
 - cybersec basics
@@ -33,6 +36,7 @@
         - TCP
         - UDP
 ---
+---
 ### 08-03-2026
 - protocols
     - IPv4 and IPv6
@@ -48,8 +52,52 @@
     - DHCP
     - DNS
     - telnet
-    
-    
+---
+---
+### 15-03-2026
+- protocols 
+    - WEP
+    - WPA,WPA2,WPA3
+- pentesting basics
+    - types of pentesting - info based
+        - black box
+        - white box
+        - gray box
+    - types of pentesting - environment based
+        - network pentesting
+        - web pentesting
+        - cloud pentesting
+        - wireless pentesting
+        - android pentesting
+        - iot pentesting
+    - pentesting phases    
+        - PHASE 1 - scoping
+        - PHASE 2 - recon
+            - active 
+                - nmap 
+                - telenet
+                - nc
+                - dnsenum and dnsrecon
+                - sherlock
+            - passive
+                - shodan
+                - fofa
+                - theHarvester
+                - recon-ng
+                - maltego
+                - dig and nslookup
+                - whois
+---
+---
+### 22-03-2026
+
+
+
+---
+---
+
+
+
     
 
 
