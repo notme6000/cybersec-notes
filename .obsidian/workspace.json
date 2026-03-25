@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redteam-class-notes/notes/active-dir/AD-auth.md",
+                "file": "redteam-class-notes/notes/pentesting/MITRE-NIST.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD-auth"
+              "title": "MITRE-NIST"
             }
           },
           {
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "AD"
+            }
+          },
+          {
+            "id": "bc4f32df8b1d4d18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redteam-class-notes/notes/basics/dos-and-ddos.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dos-and-ddos"
             }
           }
         ]
@@ -210,9 +224,14 @@
   },
   "active": "95e6c320ba5306ea",
   "lastOpenFiles": [
-    "redteam-class-notes/notes/active-dir/AD.md",
-    "redteam-class-notes/notes/active-dir/AD-auth.md",
     "redteam-class-notes/notes/pentesting/pentesting-basics.md",
+    "redteam-class-notes/notes/basics/ddos-attacks.md",
+    "redteam-class-notes/notes/basics/dos-and-ddos.md",
+    "redteam-class-notes/notes/basics/ddos-attacks.md~",
+    "redteam-class-notes/notes/active-dir/AD-auth.md",
+    "redteam-class-notes/notes.zip",
+    "redteam-class-notes/ziqyPA1S",
+    "redteam-class-notes/notes/active-dir/AD.md",
     "redteam-class-notes/notes/active-dir/AD-auth.md~",
     "redteam class notes/notes/linux/linux-filesys.md",
     "redteam class notes/notes/linux/linux-utilities.md",
@@ -240,11 +259,6 @@
     "redteam class notes/notes/network/tcp-4-wayhandshake.md",
     "redteam class notes/notes/network/ip-subnetting.md",
     "redteam class notes/notes/network/tcp-ip-model.md",
-    "redteam class notes/notes/network/osi-model-packet-creation.md",
-    "redteam class notes/notes/network/ports.md",
-    "redteam class notes/notes/pentesting/MITRE-NIST.md~",
-    "zijlyiHj",
-    "notes.zip",
-    "redteam-misc/webinar/malware-analysis.md~"
+    "redteam class notes/notes/pentesting/MITRE-NIST.md~"
   ]
 }

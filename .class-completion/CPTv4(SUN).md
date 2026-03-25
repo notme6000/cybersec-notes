@@ -91,6 +91,13 @@
 ---
 ### 22-03-2026
 
+- pentesting phases
+    - PHASE 3 - exploitation
+        - metasploit
+        - searchsploit
+        - exploitdb
+
+
 
 
 ---
