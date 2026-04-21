@@ -1,0 +1,18 @@
+#notes
+
+[[side-channel.md]]
+[[10.separation-of-duties.md]]
+[[11.Threat,Threat-actor.md]]
+[[12-20-sub-topics.md]]
+[[12.motives, goals, objectives of security attacks.md]]
+[[7.Types of Authentication.md]]
+[[APT.md]]
+[[ddos-attacks.md]]
+[[dos-and-ddos.md]]
+[[encryption-hash-encoding.md]]
+[[malwares.md]]
+[[masquerading.md]]
+[[social-eng-attack.md]]
+[[types-of-hackers.md]]
+[[typosquatting.md]]
+[[zero-day-attack.md]]

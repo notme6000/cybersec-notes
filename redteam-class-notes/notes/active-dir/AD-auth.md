@@ -1,3 +1,5 @@
+#notes
+
 ## How Active Directory Authentication Works (Kerberos-Based)
 
 
