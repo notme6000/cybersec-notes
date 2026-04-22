@@ -5,20 +5,41 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag: #notes  ",
+      "query": "path:redteam-class-notes/notes  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:vulnhub-mech  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:redteam-misc  ",
+      "color": {
+        "a": 1,
+        "rgb": 2846390
+      }
+    },
+    {
+      "query": "path:jithu  ",
+      "color": {
+        "a": 1,
+        "rgb": 14101814
       }
     },
     {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5431473
       }
     }
   ],
@@ -27,11 +48,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.43895348837209,
   "lineSizeMultiplier": 1.16969242310578,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.230917104276069,
   "repelStrength": 11.760127531883,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6148743848660329,
+  "scale": 0.3597893715139585,
   "close": true
 }

@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redteam-class-notes/notes/active-dir/AD.md",
+                "file": "redteam-class-notes/notes/pentesting/pentesting-basics.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD"
+              "title": "pentesting-basics"
             }
           }
         ],
@@ -207,6 +207,9 @@
   },
   "active": "a8f4122f02cd70ed",
   "lastOpenFiles": [
+    "redteam-class-notes/notes/pentesting/pentesting-basics.md",
+    "redteam-class-notes/notes/pentesting/pentesting.md",
+    "redteam-class-notes/notes/active-dir/AD.md",
     "class-completion/CPTv4(SUN).md",
     "class-completion/CICSAv4(9:30-11:30).md",
     "class-completion/CICSAv4(11:30-1:00).md",
@@ -215,7 +218,6 @@
     "class-completion",
     "redteam-class-notes/notes/active-dir/AD-NTLM-auth.md",
     "redteam-class-notes/notes/active-dir/AD-auth.md",
-    "redteam-class-notes/notes/active-dir/AD.md",
     "redteam-class-notes/notes/active-dir/AD-NTLM-auth.md~",
     "redteam-class-notes/notes/basics/11.Threat,Threat-actor.md~",
     "redteam-class-notes/notes/basics/4913",
@@ -230,9 +232,7 @@
     "vulnhub-mech/series/DC/DC.md",
     "vulnhub-mech/series/series.md",
     "redteam-misc/webinar/webinar.md",
-    "redteam-class-notes/notes/pentesting/pentesting-basics.md",
     "redteam-class-notes/notes/web/web.md",
-    "redteam-class-notes/notes/pentesting/pentesting.md",
     "redteam-class-notes/notes/network/network.md",
     "redteam-class-notes/notes/linux/linux.md",
     "redteam-class-notes/notes/basics/basics.md",
