@@ -23,12 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redteam-class-notes/notes/pentesting/pentesting-basics.md",
+                "file": "cybersec-notes/CEH-short-notes/module-14.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pentesting-basics"
+              "title": "module-14"
+            }
+          },
+          {
+            "id": "340297f42733b06a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cybersec-notes/CEH-short-notes/module-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "module-15"
             }
           }
         ],
@@ -207,6 +221,11 @@
   },
   "active": "a8f4122f02cd70ed",
   "lastOpenFiles": [
+    "cybersec-notes/CEH-short-notes/module-15.md",
+    "cybersec-notes/CEH-short-notes/module-14.md",
+    "cybersec-notes/CEH-short-notes/module-15.md~",
+    "cybersec-notes/notes/network/MAC.md",
+    "cybersec-notes/notes/web/http-methods.md",
     "redteam-class-notes/notes/pentesting/pentesting-basics.md",
     "redteam-class-notes/notes/pentesting/pentesting.md",
     "redteam-class-notes/notes/active-dir/AD.md",
@@ -226,7 +245,6 @@
     "redteam-class-notes/notes/basics/basics.md~",
     "redteam-class-notes/notes/active-dir/active-dir.md~",
     "vulnhub-mech/vulnhub-machs.md~",
-    "redteam-class-notes/notes/active-dir/Active-Directory-Hierarchy.md~",
     "vulnhub-mech/series/DC/series.md",
     "vulnhub-mech/individual/individual.md",
     "vulnhub-mech/series/DC/DC.md",
@@ -238,10 +256,6 @@
     "redteam-class-notes/notes/basics/basics.md",
     "vulnhub-mech/vulnhub-machs.md",
     "vulnhub-mech/series/vulnhub-machs.md",
-    "redteam-misc/redteam-misc.md",
-    "redteam-class-notes/notes.md",
-    "images/images.md",
-    "jithu/jithu.md",
-    "redteam-class-notes/notes/linux/virtualization.md"
+    "redteam-misc/redteam-misc.md"
   ]
 }
