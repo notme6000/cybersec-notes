@@ -1,0 +1,326 @@
+
+# Detailed Notes: SOC Team Structure & Roles
+
+## 1. SOC Team Introduction
+
+A **Security Operations Center (SOC)** is a centralized team responsible for monitoring, detecting, responding to, and recovering from cybersecurity incidents 24/7.
+
+### Primary Functions of a SOC:
+- **Continuous Monitoring** – 24/7 surveillance of networks, endpoints, and logs
+- **Threat Detection** – Identifying malicious activity using SIEM, EDR, IDS/IPS
+- **Incident Response** – Containing, eradicating, and recovering from threats
+- **Forensic Analysis** – Investigating root causes of incidents
+- **Reporting & Compliance** – Documenting incidents for audits and regulatory requirements
+
+### SOC Delivery Models:
+| Model | Description |
+|-------|-------------|
+| In-house SOC | Team employed directly by the organization |
+| Managed SOC (MSSP) | Outsourced to a third-party security provider |
+| Hybrid SOC | Combination of in-house and managed services |
+| Co-managed SOC | Internal team works alongside external experts |
+
+---
+
+## 2. Organization Structure
+
+SOC teams follow a **tiered hierarchy** based on experience, responsibility, and skill level.
+
+### Typical SOC Structure (Bottom to Top):
+
+```
+            ┌──────────────┐
+            │  CISCO Level │  (Strategy / C-Suite)
+            │   (Level 5)  │
+            └──────┬───────┘
+                   │
+            ┌──────▼───────┐
+            │ SOC Manager │  (Management / HR / Budget)
+            │   (Level 4)  │
+            └──────┬───────┘
+                   │
+            ┌──────▼───────┐
+            │ SOC Team Lead│  (Supervision / Escalation)
+            │   (Level 3)  │
+            └──────┬───────┘
+                   │
+            ┌──────▼───────┐
+            │ SOC Engineer │  (Tooling / Infrastructure)
+            └──────┬───────┘
+                   │
+            ┌──────▼───────┐
+            │Senior SOC L2 │  (Advanced Analysis)
+            └──────┬───────┘
+                   │
+            ┌──────▼───────┐
+            │  SOC L1      │  (Triage / Alerts)
+            └──────────────┘
+```
+
+### Supporting / Specialized Roles (Parallel to L2/L3):
+- **Threat Hunter** – Proactively searches for undetected threats
+- **Forensic Investigator** – Performs deep-dive post-incident analysis
+
+---
+
+## 3. CISCO (Level 5)
+
+**CISCO** in this context refers to **Chief Information Security Officer** (not the networking company). Some organizations label CISO as Level 5.
+
+### Responsibilities:
+- **Strategic direction** of the entire security program
+- **Budget approval** for SOC tools, staffing, and training
+- **Board-level reporting** on security posture and incidents
+- **Risk management** and compliance oversight
+- **Incident communication** with executives, legal, and PR
+- **Policy approval** for security frameworks (ISO 27001, NIST, PCI DSS)
+
+### Skills Required:
+- Executive leadership and communication
+- Business risk understanding
+- Regulatory compliance knowledge
+- Crisis management
+
+### Reporting:
+- Reports directly to **CEO** or **Board of Directors**
+
+---
+
+## 4. SOC Manager (Level 4)
+
+The SOC Manager is responsible for **people, processes, and daily operations**.
+
+### Responsibilities:
+- **Team management** – Hiring, training, scheduling, performance reviews
+- **Shift management** – Ensuring 24/7 coverage
+- **Incident escalation** – Deciding when to declare a major incident
+- **Metrics & KPIs** – Tracking MTTD, MTTR, alert volume, false positives
+- **Budget management** – Tools, licenses, training budgets
+- **Process improvement** – Updating runbooks and SOPs
+- **Liaison** – Communicating with other departments (IT, Legal, HR)
+
+### Key Metrics Tracked:
+| Metric | Meaning |
+|--------|---------|
+| MTTD | Mean Time to Detect |
+| MTTR | Mean Time to Respond/Recover |
+| Alert Volume | Number of alerts per day |
+| False Positive Rate | % of alerts that are benign |
+| Incident Closure Time | Average time to resolve |
+
+### Skills Required:
+- Leadership and conflict resolution
+- SOC operations expertise
+- Budgeting and resource planning
+- Incident management (ITIL knowledge helpful) (Information Technology Infrastructure Library)
+
+---
+
+## 5. SOC Team Lead (Level 3)
+
+The Team Lead is a **working supervisor** who handles escalations from L2 and guides the team during incidents.
+
+### Responsibilities:
+- **Escalation point** for complex incidents
+- **Incident coordination** – Assigning tasks during active breaches
+- **Mentoring** L1 and L2 analysts
+- **Quality assurance** – Reviewing investigation reports
+- **Runbook maintenance** – Updating playbooks for common scenarios
+- **On-call rotation management**
+- **Tool optimization** – Tuning SIEM rules, reducing false positives
+
+### Skills Required:
+- Deep technical knowledge (network, endpoint, cloud)
+- Incident response leadership
+- Calm under pressure
+- Teaching and mentoring ability
+
+### Typical Background:
+- 5–8 years of SOC experience
+- Previously a Senior SOC Analyst (L2)
+
+---
+
+## 6. SOC Engineer
+
+The SOC Engineer is responsible for **building, maintaining, and optimizing security tools**.
+
+### Responsibilities:
+- **SIEM administration** – Installation, configuration, log source integration
+- **EDR/XDR deployment** – Agent installation and policy management
+- **SOAR implementation** – Automating response playbooks
+- **Log management** – Ensuring all critical log sources are ingesting
+- **Tool evaluation** – Testing new security products
+- **API integrations** – Connecting disparate security tools
+- **Performance tuning** – Ensuring tools run efficiently
+
+### Skills Required:
+- System administration (Linux, Windows)
+- Scripting (Python, PowerShell, Bash)
+- Database queries (SQL, Splunk SPL)
+- Networking (TCP/IP, ports, protocols)
+- Cloud platforms (AWS, Azure, GCP)
+
+### Difference from SOC Analyst:
+| SOC Analyst | SOC Engineer |
+|-------------|---------------|
+| Uses tools to investigate | Builds and maintains tools |
+| Focuses on threats | Focuses on infrastructure |
+| Works alerts | Works configurations |
+
+---
+
+## 7. Senior SOC Analyst (Level 2)
+
+L2 analysts handle **complex investigations** that L1 cannot resolve. They are the advanced threat hunters of the tiered structure.
+
+### Responsibilities:
+- **Deep-dive analysis** of escalated alerts
+- **Malware analysis** (basic static/dynamic)
+- **Network packet analysis** (Wireshark, tcpdump)
+- **Host forensics** (memory and disk analysis)
+- **Root cause analysis** for incidents
+- **Threat intelligence application** – Correlating IOCs
+- **Mentoring L1 analysts**
+- **Creating detection rules** (Sigma, YARA)
+
+### Escalation Path:
+```
+L1 (Triage) → L2 (Investigate) → L3 (Lead/Respond) → L4 (Manager)
+```
+
+### Skills Required:
+- SIEM query languages (SPL, KQL, Lucene)
+- Endpoint forensics (Volatility, Autopsy)
+- Network analysis (Wireshark, Zeek, Suricata)
+- Understanding of MITRE ATT&CK framework
+- Basic reverse engineering
+
+---
+
+## 8. SOC Analyst (Level 1)
+
+L1 is the **entry-level role** and the first line of defense. They handle alert triage and initial investigation.
+
+### Responsibilities:
+- **Alert triage** – Reviewing SIEM alerts and determining severity
+- **False positive elimination** – Closing benign alerts
+- **Initial investigation** – Gathering basic context (source IP, user, asset)
+- **Ticket creation** – Documenting findings in ticketing system
+- **Escalation** – Sending suspicious alerts to L2
+- **Following playbooks** – Executing predefined SOPs
+
+### Common Alerts Handled by L1:
+- Failed login attempts (brute force)
+- Antivirus detections
+- Unusual outbound connections
+- Privilege escalation attempts
+- Phishing email reports
+
+### Skills Required:
+- Basic networking (OSI model, TCP/UDP, common ports)
+- Log analysis fundamentals
+- Understanding of malware types (Trojan, Ransomware, Worm)
+- Communication skills (documenting clearly)
+- Attention to detail
+
+### Typical Experience:
+- 0–2 years in cybersecurity
+- CompTIA Security+, CySA+, or similar certification
+
+---
+
+## 9. Threat Hunter
+
+Unlike analysts who respond to alerts, Threat Hunters **proactively search** for threats that have evaded existing detections.
+
+### Key Concept:
+> "Analysts wait for the alarm. Hunters look for the silence that shouldn't exist."
+
+### Threat Hunting Process:
+```
+Hypothesis → Data Collection → Analysis → Conclusion → Automation
+```
+
+### Types of Threat Hunting:
+| Type | Description |
+|------|-------------|
+| **Intel-driven** | Based on latest IOCs (e.g., new C2 domains) |
+| **Hypothesis-driven** | "An attacker using PowerShell would look like X" |
+| **TTP-driven** | Searching for MITRE ATT&CK techniques |
+
+### Responsibilities:
+- **Proactive searches** across endpoints, network, and logs
+- **Creating detection content** for SIEM/EDR
+- **Mapping adversary behaviors** to MITRE ATT&CK
+- **Reducing dwell time** of attackers
+- **Sharing findings** with L2/L3 analysts
+
+### Skills Required:
+- Advanced knowledge of attacker TTPs
+- Data analytics (SQL, Python, KQL)
+- Understanding of adversarial frameworks (MITRE ATT&CK, Cyber Kill Chain)
+- Creativity and curiosity
+
+---
+
+## 10. Forensic Investigator
+
+Forensic Investigators perform **post-incident analysis** to determine exactly what happened, how, and who was responsible.
+
+### Key Principle:
+> **Forensics is about preserving evidence for legal or internal proceedings.**
+
+### Forensic Investigation Phases:
+| Phase | Activity |
+|-------|----------|
+| **Collection** | Acquiring disk images, memory dumps, logs |
+| **Preservation** | Creating cryptographic hashes (MD5, SHA256) |
+| **Analysis** | Recovering deleted files, timeline analysis |
+| **Presentation** | Creating report suitable for legal or management |
+
+### Types of Forensics:
+- **Disk Forensics** – Analyzing hard drives and file systems
+- **Memory Forensics** – RAM analysis for running processes
+- **Network Forensics** – PCAP analysis
+- **Mobile Forensics** – Smartphone and tablet analysis
+- **Cloud Forensics** – AWS/Azure/GCB logs
+
+### Responsibilities:
+- **Evidence collection** using write-blockers and forensic tools
+- **Timeline reconstruction** of attacker activities
+- **Malware reverse engineering** (advanced)
+- **Chain of custody documentation**
+- **Expert testimony** in legal proceedings
+- **Root cause determination**
+
+### Tools Used:
+| Category | Tools |
+|----------|-------|
+| Disk Forensics | Autopsy, FTK, EnCase, The Sleuth Kit |
+| Memory Forensics | Volatility, Rekall |
+| Network Forensics | Wireshark, NetworkMiner, Zeek |
+| Log Analysis | Splunk, ELK, grep, awk |
+
+### Skills Required:
+- Understanding of file systems (NTFS, EXT4, APFS)
+- Operating system internals (Windows, Linux, macOS)
+- Legal and chain of custody procedures
+- Report writing for non-technical audiences
+
+---
+
+# Summary Table: SOC Roles at a Glance
+
+| Role | Level | Focus | Key Activity |
+|------|-------|-------|---------------|
+| CISO | 5 | Strategy | Risk management, board reporting |
+| SOC Manager | 4 | Management | Hiring, metrics, budget |
+| SOC Team Lead | 3 | Supervision | Escalations, mentoring, coordination |
+| SOC Engineer | 3 | Infrastructure | Tool deployment and maintenance |
+| Senior SOC Analyst | 2 | Investigation | Deep-dive analysis, root cause |
+| SOC Analyst | 1 | Triage | Alert review, escalation |
+| Threat Hunter | 2–3 | Proactive | Searching for undetected threats |
+| Forensic Investigator | 2–3 | Post-incident | Evidence analysis, legal support |
+
+
