@@ -8,16 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "561329103e915c2b",
+            "id": "a720e6375831d8df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cybersec-notes/CEH-short-notes/module-19.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "module-19"
+            }
+          },
+          {
+            "id": "f83c5f41ce74fec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cybersec-notes/soc-notes/config-and-change-management.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "config-and-change-management"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +209,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "561329103e915c2b",
+  "active": "f83c5f41ce74fec1",
   "lastOpenFiles": [
+    "cybersec-notes/CEH-short-notes/module-19.md",
+    "cybersec-notes/CEH-short-notes/module-20.md",
+    "cybersec-notes/offensive-notes/basics/social-eng-attack.md",
+    "cybersec-notes/offensive-notes/basics/dos-and-ddos.md",
+    "cybersec-notes/offensive-notes/basics/ddos-attacks.md",
+    "cybersec-notes/offensive-notes/basics/basics.md",
+    "cybersec-notes/offensive-notes/basics/12-20-sub-topics.md",
+    "cybersec-notes/soc-notes/config-and-change-management.md",
     "cybersec-notes/CEH-short-notes/module-18.md",
     "cybersec-notes/CEH-short-notes/module-17.md",
     "cybersec-notes/CEH-short-notes/module-16.md",
@@ -219,14 +246,6 @@
     "redteam-class-notes/notes/basics/4913",
     "redteam-misc/webinar/malware-analysis.md~",
     "redteam-class-notes/notes/basics/10.separation-of-duties.md~",
-    "vulnhub-mech/series/DC/series.md",
-    "vulnhub-mech/individual/individual.md",
-    "vulnhub-mech/series/DC/DC.md",
-    "vulnhub-mech/series/series.md",
-    "redteam-misc/webinar/webinar.md",
-    "redteam-class-notes/notes/web/web.md",
-    "redteam-class-notes/notes/network/network.md",
-    "redteam-class-notes/notes/linux/linux.md",
-    "redteam-class-notes/notes/basics/basics.md"
+    "vulnhub-mech/series/DC/series.md"
   ]
 }
