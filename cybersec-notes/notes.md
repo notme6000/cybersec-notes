@@ -6,3 +6,5 @@
 [[network/network.md]]
 [[pentesting/pentesting.md]]
 [[web/web.md]]
+[[CEH-short-notes/CEH.md]]
+[[soc-notes/soc-roadmap]]
