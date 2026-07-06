@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ca76f4acc6dc0075",
+        "id": "c8f3a4c891dfc33c",
         "type": "tabs",
         "children": [
           {
-            "id": "a78a507c0a1c9c8a",
+            "id": "2c1421d21107ebfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cybersec-notes/CEH-short-notes/module-1.md",
+                "file": "cybersec-notes/CSA-short-notes/module-2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "module-1"
-            }
-          },
-          {
-            "id": "75016abc8666fb89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cybersec-notes/CSA-short-notes/module-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "module-1"
+              "title": "module-2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "402a8158155a7a66",
@@ -120,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redteam class notes/notes/pentesting/pentesting-basics.md",
+                "file": "cybersec-notes/CEH-short-notes/module-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pentesting-basics"
+              "title": "Backlinks for module-1"
             }
           },
           {
@@ -201,7 +185,8 @@
               "title": "calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,13 +204,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "75016abc8666fb89",
+  "active": "2c1421d21107ebfa",
   "lastOpenFiles": [
-    "cybersec-notes/CSA-short-notes/module-2.md~",
     "cybersec-notes/CEH-short-notes/module-1.md",
-    "cybersec-notes/CSA-short-notes/module-1.md",
-    "cybersec-notes/CEH-short-notes/module-2.md~",
+    "cybersec-notes/offensive-notes/thick-client/thick-client-2.md",
+    "cybersec-notes/CSA-short-notes/module-2.md",
     "cybersec-notes/CEH-short-notes/module-2.md",
+    "cybersec-notes/CSA-short-notes/module-1.md",
+    "cybersec-notes/offensive-notes/thick-client/thick-client.md",
+    "cybersec-notes/offensive-notes/andriod/android-pentesting-basics.md",
+    "cybersec-notes/CSA-short-notes/module-2.md~",
+    "cybersec-notes/CEH-short-notes/module-2.md~",
     "cybersec-notes/offensive-notes/active-dir/AD-NTLM-auth.md",
     "cybersec-notes/offensive-notes/active-dir/AD-auth.md",
     "cybersec-notes/offensive-notes/active-dir/AD.md",
@@ -247,15 +236,11 @@
     "cybersec-notes/soc-notes/soc-fundamental/os-basics.md",
     "cybersec-notes/soc-notes/windows/usermod-and-kernelmod.md",
     "cybersec-notes/soc-notes/windows/windows.md",
-    "cybersec-notes/soc-notes/os-basics.md",
-    "cybersec-notes/soc-notes/soc-roadmap.md",
     "cybersec-notes/soc-notes/soc-fundamental/logs-1.md~",
-    "cybersec-notes/soc-notes/soc-fundamental/log-1.md",
     "cybersec-notes/soc-notes/soc-fundamental/event-alert-incident.md~",
     "cybersec-notes/soc-notes/soc-fundamental/logs.md~",
     "cybersec-notes/soc-notes/soc-fundamental/imp-concepts.md~",
     "cybersec-notes/soc-notes/soc-fundamental",
-    "cybersec-notes/soc-notes/linux-soc",
-    "cybersec-notes/soc-notes/soc-misc"
+    "cybersec-notes/soc-notes/linux-soc"
   ]
 }
